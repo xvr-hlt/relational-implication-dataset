@@ -1,0 +1,1295 @@
+PERSON, appeared on, TELEVISION	PERSON, announced on, TELEVISION	False
+PERSON, became, A SAINT	PERSON, are allowed to be, SAINTS	True
+PERSON, became, A SAINT	PERSON, assumed the attitude of, THE SAINT	True
+PERSON, became, A SAINT	THE SAINTS, are viewed as, PERSON	True
+ISLAM, burst forth in, ASIAN COUNTRY	ASIAN COUNTRY, believes in, ISLAM	True
+VEGETABLE, can be added to, A SALAD	VEGETABLE, are used for, SALADS	False
+SYMPTOM, can be treated with, NSAIDS	NSAIDS, are effective for, SYMPTOM	True
+SYMPTOM, can be treated with, NSAIDS	SYMPTOM, can be managed with, NSAIDS	True
+DISEASE, can cause, A HEADACHE	DISEASE, begins with, HEADACHE	False
+DISEASE, can cause, A RASH	DISEASE, appears as, A RASH	False
+PLANT LIFE, can survive in, THE SNOW	PLANT LIFE, are fed by, THE SNOW	False
+DISEASE, causes, FEVER	DISEASE, are also associated with, FEVER	True
+DISEASE, causes, FEVER	DISEASE, can cause, A FEVER	True
+HORMONE, causes, OVULATION	HORMONE, are required for, OVULATION	False
+UNITED STATES PRESIDENT, committed, TROOPS	UNITED STATES PRESIDENT, also used, THE TROOPS	False
+PERSON, composed, A SYMPHONY	PERSON, completed, THE SYMPHONY	True
+PERSON, composed, AN OPERA	PERSON, began to compose, THE OPERA	True
+PERSON, confessed on, TELEVISION	PERSON, appeared on, TELEVISION	True
+BEVERAGE, contains, ALCOHOL	BEVERAGE, consists chiefly of, ALCOHOL	False
+PLANT LIFE, contains, CALCIUM	PLANT LIFE, are all sources of, CALCIUM	False
+PLANT LIFE, contains, CALCIUM	PLANT LIFE, are high in, CALCIUM	False
+PLANT LIFE, contains, CALCIUM	PLANT LIFE, are rich in, CALCIUM	False
+PLANT LIFE, contains, VITAMINS	PLANT LIFE, are fortified with, VITAMINS	False
+PLANT LIFE, contains, VITAMINS	PLANT LIFE, are rich in, VITAMINS	False
+PLANT LIFE, contains, VITAMINS	PLANT LIFE, are rich in, VITAMIN	False
+PLANT LIFE, contains, VITAMINS	PLANT LIFE, are the sources of, THIS VITAMIN	False
+PLANT LIFE, contains, VITAMINS	PLANT LIFE, are the sources of, VITAMINS	False
+PLANT LIFE, contains, VITAMINS	PLANT LIFE, concentrated, THE VITAMIN	False
+SOLID FOOD, contains, VITAMINS	SOLID FOOD, are rich in, VITAMINS	False
+PERSON, contributed to, SCIENCE	PERSON, are artists in, THE SCIENCES	False
+PERSON, contributed to, SCIENCE	PERSON, awarded the medal of, SCIENCE	False
+PERSON, contributed to, SCIENCE	PERSON, can develop, SCIENCES	True
+PERSON, controlled, CHINA	PERSON, became the leader of, CHINA	False
+PERSON, controlled, JAPAN	PERSON, became emperor of, JAPAN	False
+PERSON, controlled, JAPAN	PERSON, becomes emperor of, JAPAN	False
+PERSON, controlled, JAPAN	PERSON, becomes minister of, JAPAN	False
+PERSON, could be made into, A SAINT	PERSON, became, A SAINT	False
+PERSON, could have written, A SYMPHONY	PERSON, composed, A SYMPHONY	False
+DRUG, cures, INFECTIONS	DRUG, are available for, INFECTIONS	True
+DRUG, cures, INFECTIONS	DRUG, are used for the treatment of, INFECTIONS	True
+DRUG, cures, INFECTIONS	DRUG, are useful for, INFECTIONS	True
+DRUG, cures, INFECTIONS	DRUG, can be used to fight, INFECTIONS	True
+DRUG, cures, MALARIA	MALARIA, can be treated with, DRUG	True
+DISEASE, decimated, EUROPE	DISEASE, arrived in, EUROPE	True
+DISEASE, decimated, EUROPE	DISEASE, became widespread in, EUROPE	True
+STATESMAN, declared, DICTATOR	STATESMAN, became, A DICTATOR	False
+EUROPEAN COUNTRY, declared war on, BELGIUM	EUROPEAN COUNTRY, declared and invaded, BELGIUM	False
+PERSON, defines, A HERO	PERSON, became, A HERO	True
+UNITED STATES PRESIDENT, deployed, TROOPS	UNITED STATES PRESIDENT, committed, TROOPS	True
+PERSON, dialogues concerning, SCIENCES	PERSON, contributed to, SCIENCE	False
+PLANT LIFE, did not suffer from, THE SNOW	PLANT LIFE, can survive in, THE SNOW	True
+SCIENTIST, discovered, PENICILLIN	SCIENTIST, accidentally discovered, PENICILLIN	False
+PERSON, discovered the coast of, AUSTRALIA	PERSON, discovered, AUSTRALIA	False
+PHILOSOPHER, discussed, DEMOCRACY	PHILOSOPHER, considered, DEMOCRACY	True
+PHILOSOPHER, discussed, DEMOCRACY	PHILOSOPHER, defined, DEMOCRACY	False
+PHILOSOPHER, discussed, DEMOCRACY	PHILOSOPHER, defines, DEMOCRACY	False
+UNITED STATES PRESIDENT, dispatched, TROOPS	UNITED STATES PRESIDENT, committed, TROOPS	True
+PERSON, drew, MICKEY MOUSE	PERSON, created, MICKEY MOUSE	False
+ANIMAL, eats, CROPS	ANIMAL, are pests of, CROPS	False
+ANIMAL, eats, CROPS	ANIMAL, do damage to, CROPS	True
+ANIMAL, eats, CROPS	THE CROPS, are fed to, ANIMAL	False
+ANIMAL, eats, HAY	ANIMAL, are fed on, HAY	False
+ANIMAL, eats, HAY	ANIMAL, came to eat, THE HAY	False
+ANIMAL, eats, INSECTS	ANIMAL, are fed with, INSECTS	False
+ISLAM, entered, ASIAN COUNTRY	ASIAN COUNTRY, believes in, ISLAM	False
+EUROPEAN COUNTRY, entered the war against, GERMANY	EUROPEAN COUNTRY, declared war on, GERMANY	False
+RUSSIA, expanded to, BODY OF WATER	BODY OF WATER, borders, RUSSIA	True
+ASIAN COUNTRY, exports, RICE	ASIAN COUNTRY, exported tons of, RICE	False
+EUROPEAN COUNTRY, exports, COAL	EUROPEAN COUNTRY, exported tons of, COAL	False
+EUROPEAN COUNTRY, exports, COAL	THE COAL, comes from, EUROPEAN COUNTRY	True
+NORTH AMERICAN COUNTRY, exports, SUGAR	NORTH AMERICAN COUNTRY, exported pounds of, SUGAR	False
+HORMONE, facilitates, OVULATION	HORMONE, causes, OVULATION	False
+ANIMAL, fattened on, CROPS	ANIMAL, eats, CROPS	True
+BIRD, feeds on, FISH	BIRD, can eat, A FISH	True
+BIRD, feeds on, FISH	BIRD, dive for, FISH	False
+BIRD, feeds on, FISH	BIRD, dived for, FISH	False
+BIRD, feeds on, FISH	THE FISH, attract, BIRD	True
+BIRD, feeds on, WORMS	BIRD, are fond of, THESE WORMS	False
+PERSON, first appeared on, TELEVISION	PERSON, appeared on, TELEVISION	True
+PERSON, followed, JESUS	PERSON, acknowledged in, JESUS	True
+PERSON, followed, JESUS	PERSON, entered the society of, JESUS	False
+PERSON, fought in, A BATTLE	A BATTLE, began between, PERSON	False
+PERSON, fought in, A BATTLE	PERSON, are destroyed in, BATTLE	False
+PERSON, fought in, A BATTLE	PERSON, commanded the army in, A BATTLE	False
+PERSON, fought in, A BATTLE	PERSON, commands at, THE BATTLE	False
+PERSON, fought in, A BATTLE	PERSON, dashed into, THE BATTLE	False
+PERSON, fought in, A BATTLE	PERSON, defeated the austrians at, THE BATTLE	False
+PERSON, fought in, A BATTLE	PERSON, died on the field of, BATTLE	False
+PERSON, fought in, A BATTLE	PERSON, exerted himself in, THAT BATTLE	False
+PERSON, fought in, A BATTLE	PERSON, fought and won, THE BATTLE	False
+PERSON, fought in, A WAR	PERSON, became prisoners of, WAR	False
+PERSON, fought in, A WAR	PERSON, did not long survive, THIS WAR	False
+PERSON, fought in, THE CIVIL WAR	CIVIL WAR, ensued between, PERSON	False
+PERSON, founded the institute of, SCIENCES	PERSON, contributed to, SCIENCE	True
+PERSON, frequently made, WAR	PERSON, fought in, A WAR	True
+PERSON, gave and created, THE SCIENCE	PERSON, contributed to, SCIENCE	True
+PLANT LIFE, grows wild in, THE DESERTS	PLANT LIFE, can survive in, THE DESERT	True
+STATESMAN, had been appointed, DICTATOR	STATESMAN, became, A DICTATOR	True
+PERSON, had been defeated in, BATTLE	PERSON, fought in, A BATTLE	True
+THE CROPS, had been devoured by, ANIMAL	ANIMAL, eats, CROPS	True
+PERSON, had been forced into, THE WAR	PERSON, fought in, A WAR	True
+CIVIL WAR, had broken out between, PERSON	PERSON, fought in, THE CIVIL WAR	True
+PERSON, had composed, OPERAS	PERSON, composed, AN OPERA	True
+PERSON, had composed, THE OPERA	PERSON, composed, AN OPERA	True
+PERSON, had conquered, EVEREST	PERSON, climbed, THE EVEREST	True
+BIRD, had eaten, THE FISH	BIRD, feeds on, FISH	True
+PERSON, had fallen in, THE WAR	PERSON, fought in, A WAR	True
+CITY, had influence in, GREECE	CITY, became the capital of, GREECE	False
+CITY, had influence in, GREECE	CITY, governs, GREECE	False
+CITY, had influence in, GREECE	CITY, had become the power in, GREECE	False
+RULER, had retaken, JERUSALEM	RULER, conquered, JERUSALEM	True
+PERSON, had ruled, JAPAN	PERSON, controlled, JAPAN	True
+PERSON, had won, THE CIVIL WAR	PERSON, fought in, THE CIVIL WAR	True
+PERSON, had worked upon, A SYMPHONY	PERSON, composed, A SYMPHONY	False
+ANIMAL, has, CLAWS	ANIMAL, are born with, CLAWS	False
+ANIMAL, has, CLAWS	ANIMAL, fight with, CLAWS	False
+ANIMAL, has, CLAWS	ANIMAL, habitually use, CLAWS	False
+ANIMAL, has, FUR	ANIMAL, are sources of, FUR	False
+ANIMAL, has, FUR	ANIMAL, eat and have, FUR	False
+ANIMAL, has, HORNS	ANIMAL, are distinguished by having, HORNS	False
+ANIMAL, has, HORNS	ANIMAL, are small with, HORNS	False
+ANIMAL, has, HORNS	HORNS, belong only to, ANIMAL	False
+ANIMAL, has, WINGS	ANIMAL, are insects with, WINGS	False
+ANIMAL, has, WINGS	ANIMAL, comes on, WINGS	False
+ANIMAL, has, WINGS	ANIMAL, flew on, WINGS	False
+ANIMAL, has, WINGS	ANIMAL, flew with, WINGS	False
+ANIMAL, has, WINGS	ANIMAL, floated on, WINGS	False
+ANIMAL, has, WINGS	ANIMAL, floats on, WINGS	False
+ANIMAL, has, WINGS	ANIMAL, flutter with, WINGS	False
+DISEASE, has, A RASH	DISEASE, can cause, A RASH	True
+MONTH, has a lot of, RAIN	RAIN, fell during, MONTH	True
+MONTH, has a lot of, RAIN	THE RAIN, comes in, MONTH	True
+THE HERO, has always been, PERSON	PERSON, became, A HERO	True
+PERSON, has been a leader in, WAR	PERSON, fought in, A WAR	True
+PERSON, has been chosen as, THE SAINT	PERSON, became, A SAINT	True
+DRUG, has been fighting, INFECTIONS	DRUG, cures, INFECTIONS	False
+THE INDEPENDENCE, has been proclaimed by, POLITICIAN	POLITICIAN, advocated, INDEPENDENCE	True
+DRUG, has been used in the treatment of, INFECTIONS	DRUG, cures, INFECTIONS	False
+PERSON, has braved, THE BATTLE	PERSON, fought in, A BATTLE	True
+PERSON, has composed, OPERAS	PERSON, composed, AN OPERA	True
+PERSON, has composed, SYMPHONIES	PERSON, composed, A SYMPHONY	True
+THE TELESCOPE, has discovered, CELESTIAL BODY	CELESTIAL BODY, can be seen with, A TELESCOPE	True
+EUROPEAN COUNTRY, has possessions in, THE PACIFIC	EUROPEAN COUNTRY, had colonies in, THE PACIFIC	False
+DISEASE, has prevailed in, EUROPE	DISEASE, decimated, EUROPE	False
+ANIMAL, has spots on, THE WINGS	ANIMAL, has, WINGS	True
+ANIMAL, has under, WINGS	ANIMAL, has, WINGS	True
+SOLID FOOD, have, MORE VITAMINS	SOLID FOOD, contains, VITAMINS	True
+ANIMAL, have a pair of, CLAWS	ANIMAL, has, CLAWS	True
+INFECTIONS, have been successfully treated with, DRUG	DRUG, cures, INFECTIONS	False
+DRUG, have been used in the treatment of, INFECTIONS	DRUG, cures, INFECTIONS	False
+HORMONE, have been used to induce, OVULATION	HORMONE, causes, OVULATION	True
+DRUG, have been used to treat, INFECTIONS	DRUG, cures, INFECTIONS	False
+TELESCOPES, have discovered, CELESTIAL BODY	CELESTIAL BODY, can be seen with, A TELESCOPE	True
+ANIMAL, have pairs of, WINGS	ANIMAL, has, WINGS	True
+ANIMAL, hung with, WINGS	ANIMAL, has, WINGS	True
+ANIMAL, hunts, ANTELOPES	ANIMAL, had caught, AN ANTELOPE	False
+ANIMAL, hunts, ANTELOPES	THE ANTELOPE, escaped, ANIMAL	False
+ANIMAL, hunts, SQUIRRELS	ANIMAL, bite, THE SQUIRRELS	True
+FOOD, includes, SALT	FOOD, always has, SOME SALT	False
+FOOD, includes, SALT	FOOD, are loaded with, SALT	False
+FOOD, includes, SUGAR	FOOD, are high in, SUGAR	False
+FOOD, includes, SUGAR	FOOD, are sweetened with, SUGAR	False
+FOOD, includes, SUGAR	FOOD, are the source of, SUGAR	False
+FOOD, includes, SUGAR	FOOD, contains a proportion of, SUGAR	False
+FOOD, includes, SUGAR	FOOD, contains quantities of, SUGAR	False
+FOOD, includes, SUGAR	SUGAR, are essential to, FOOD	False
+FOOD, includes, SUGAR	SUGAR, has been added to, FOOD	False
+HORMONE, increases, LIBIDO	HORMONE, can increase, LIBIDO	True
+DRUG, indicated for the treatment of, INFECTIONS	DRUG, cures, INFECTIONS	False
+THE VENOM, injected by, ANIMAL	ANIMAL, has, VENOM	True
+PERSON, interprets, LAWS	PERSON, arraigns, LAWS	False
+PERSON, interprets, LAWS	PERSON, began to study, THE LAWS	True
+PERSON, interprets, LAWS	THE LAWS, are discussed by, PERSON	True
+PERSON, interprets, LAWS	THE LAWS, have been approved by, PERSON	False
+PERSON, invented, THE TELEGRAPH	PERSON, had devised, A TELEGRAPH	True
+PERSON, invented, THE TELEPHONE	PERSON, developed, THE TELEPHONE	True
+PERSON, invented, THE TELEVISION	PERSON, contributed to the development of, TELEVISION	True
+SCIENTIST, invented, THE COMPUTER	SCIENTIST, designed, A COMPUTER	True
+PERSON, is a historian of, SCIENCE	PERSON, contributed to, SCIENCE	True
+ANIMAL, is a insect with, WINGS	ANIMAL, has, WINGS	True
+BEVERAGE, is a native of, AMERICA	BEVERAGE, came from, AMERICA	True
+PERSON, is a politician from, TEXAS	PERSON, appointed governor of, TEXAS	False
+PERSON, is a politician from, TEXAS	PERSON, became governor of, TEXAS	False
+PERSON, is a politician from, TEXAS	PERSON, had served in, TEXAS	True
+FOOD, is a product of, SUGAR	FOOD, includes, SUGAR	True
+PERSON, is a veteran of, THE WAR	PERSON, fought in, A WAR	True
+MATERIAL, is abundant in, AFRICA	MATERIAL, are imported from, AFRICA	False
+MONETARY UNIT, is accepted in, CANADA	MONETARY UNIT, came from, CANADA	False
+MONETARY UNIT, is accepted in, CANADA	MONETARY UNIT, comes from, CANADA	False
+MONETARY UNIT, is accepted in, CANADA	MONETARY UNIT, has been used in, CANADA	False
+ORGANISM, is affected by, CO2	CO2, contributes to the growth of, ORGANISM	False
+ORGANISM, is affected by, CO2	ORGANISM, are hypersensitive to, CO2	False
+EUROPEAN COUNTRY, is an ally of, RUSSIA	EUROPEAN COUNTRY, had cooperated with, THE RUSSIA	True
+EUROPEAN COUNTRY, is an ally of, THE UNITED STATES	THE UNITED STATES, had made a treaty with, EUROPEAN COUNTRY	False
+MATERIAL, is an crop in, AFRICA	MATERIAL, is abundant in, AFRICA	False
+PERSON, is and remains, A HERO	PERSON, became, A HERO	True
+SALT, is applied to the surface of, FOOD	FOOD, includes, SALT	True
+PERSON, is associated with, CAPITALISM	PERSON, embodied, CAPITALISM	False
+PERSON, is associated with, CAPITALISM	PERSON, indicts, CAPITALISM	False
+PERSON, is associated with, COMMUNISM	PERSON, advocates, COMMUNISM	False
+PERSON, is associated with, COMMUNISM	PERSON, attempted to establish, COMMUNISM	False
+PERSON, is associated with, COMMUNISM	PERSON, defined, COMMUNISM	False
+PERSON, is associated with, COMMUNISM	PERSON, demanded, COMMUNISM	False
+PERSON, is associated with, COMMUNISM	PERSON, have organized, COMMUNISM	False
+PERSON, is associated with, COMMUNISM	PERSON, introduced an element of, COMMUNISM	False
+ASIAN COUNTRY, is bounded on the east by, CHINA	ASIAN COUNTRY, is a neighbor of, CHINA	True
+THE POISON, is carried by, ANIMAL	ANIMAL, can produce, POISON	False
+PROCESS, is carried out by, A COMPUTER	PROCESS, can be implemented on, A COMPUTER	True
+DISEASE, is caused by, BACTERIA	DISEASE, are believed to be caused by, BACTERIA	True
+DISEASE, is caused by a variety of, BACTERIA	DISEASE, is caused by, BACTERIA	True
+CALENDAR DAY, is celebrated in, CHINA	CALENDAR DAY, is a festival in, CHINA	False
+DISEASE, is characterised by, A FEVER	DISEASE, causes, FEVER	True
+DISEASE, is characterized by, A RASH	DISEASE, can cause, A RASH	True
+DISEASE, is characterized by a onset of, FEVER	DISEASE, causes, FEVER	True
+GEOLOGICAL FORMATION, is common to, NEW ZEALAND	GEOLOGICAL FORMATION, are found in, NEW ZEALAND	True
+GEOLOGICAL FORMATION, is common to, NORWAY	GEOLOGICAL FORMATION, are found in, NORWAY	True
+NATURAL PHENOMENON, is common to, AMERICA	NATURAL PHENOMENON, had occurred in, AMERICA	True
+NATURAL PHENOMENON, is common to, AMERICA	NATURAL PHENOMENON, have appeared in, AMERICA	True
+PROCESS, is conducted by, A SURGEON	SURGEONS, can perform, PROCESS	True
+PROCESS, is conducted by, A SURGEON	THE SURGEON, can do, PROCESS	True
+FURNITURE, is constructed from, WOOD	FURNITURE, is a table of, WOOD	False
+FURNITURE, is constructed from, WOOD	FURNITURE, is carved, WOOD	False
+PLANT LIFE, is consumed by, BIRDS	PLANT LIFE, are preferred by, THESE BIRDS	False
+ANIMAL, is covered in, FEATHERS	ANIMAL, has a tuft of, FEATHERS	True
+ANIMAL, is covered in, FEATHERS	THE FEATHERS, are those of, ANIMAL	True
+ANIMAL, is covered in, SCALES	ANIMAL, is a fish with, SCALES	False
+ANIMAL, is covered in, SCALES	ANIMAL, is completely covered with, SCALES	False
+ANIMAL, is covered in, SCALES	SCALES, are present in, ANIMAL	True
+ANIMAL, is defined as, A MAMMAL	ANIMAL, are the group of, MAMMALS	False
+ANIMAL, is defined as, A MAMMAL	THE MAMMALS, are often called, ANIMAL	True
+ANIMAL, is defined as, A REPTILE	ANIMAL, are the largest of, REPTILES	False
+ANIMAL, is defined as, A REPTILE	THE REPTILES, found are, ANIMAL	False
+ANIMAL, is depicted with, CLAWS	ANIMAL, has, CLAWS	False
+VIRUS, is detected in, DISEASE	DISEASE, is caused by, A VIRUS	False
+THE SALT, is dissolved in, FOOD	FOOD, includes, SALT	True
+AIR, is drawn up through, MUSCLE	MUSCLE, fills up with, AIR	True
+DRUG, is effective for, INFECTIONS	DRUG, cures, INFECTIONS	False
+HORMONE, is elevated in, PREGNANCY	HORMONE, indicates, PREGNANCY	True
+ANIMAL, is encircled by, SCALES	ANIMAL, is covered in, SCALES	False
+SOLID FOOD, is enriched with, VITAMINS	SOLID FOOD, contains, VITAMINS	True
+ANIMAL, is enveloped in, FUR	ANIMAL, has, FUR	True
+CHEMICAL, is essential for, BLOOD CELLS	A BLOOD CELL, contains molecules of, CHEMICAL	True
+CHEMICAL, is essential for, BLOOD CELLS	BLOOD CELLS, consist of, CHEMICAL	True
+CHEMICAL, is essential for, BLOOD CELLS	CHEMICAL, is contained within, THE BLOOD CELLS	True
+CHEMICAL, is essential for, BLOOD CELLS	EACH BLOOD CELL, contains molecules of, CHEMICAL	False
+CHEMICAL, is essential for, BONES	CHEMICAL, brings together, THE BONES	False
+CELESTIAL BODY, is examined with, A TELESCOPE	CELESTIAL BODY, can be seen with, A TELESCOPE	True
+CORN, is fed to, ANIMAL	ANIMAL, eats, CORN	True
+ANIMAL, is fed with, CORN	ANIMAL, eats, CORN	True
+CHEMICAL, is found in, BLOOD CELLS	CHEMICAL, is essential for, BLOOD CELLS	False
+CHEMICAL, is found in, THE BLOOD CELLS	CHEMICAL, is essential for, BLOOD CELLS	False
+CHEMICAL ELEMENT, is found in, THE AIR	AIR, consists primarily of, CHEMICAL ELEMENT	False
+CHEMICAL ELEMENT, is found in, THE AIR	CHEMICAL ELEMENT, has been present in, THE AIR	True
+CHEMICAL ELEMENT, is found in, WATER	WATER, is a combination of, CHEMICAL ELEMENT	False
+NATURAL PHENOMENON, is found in, AMERICA	NATURAL PHENOMENON, is common to, AMERICA	False
+THIS VITAMIN, is found in, SOLID FOOD	SOLID FOOD, contains, VITAMINS	True
+THIS SALT, is found in quantities in, FOOD	FOOD, includes, SALT	True
+MATERIAL, is found throughout, AFRICA	MATERIAL, is abundant in, AFRICA	False
+THE OPERA, is full of, MUSICAL INSTRUMENT	MUSICAL INSTRUMENT, is commonly used in, AN OPERA	True
+PERSON, is glorified as, THE HERO	PERSON, became, A HERO	True
+BIRD, is going down to, FISH	BIRD, feeds on, FISH	True
+ANIMAL, is growing, FEATHERS	ANIMAL, is covered in, FEATHERS	False
+THE RAIN, is heaviest in, MONTH	MONTH, has a lot of, RAIN	True
+PLANT LIFE, is high in, CALCIUM	PLANT LIFE, contains, CALCIUM	True
+PLANT LIFE, is high in, VITAMINS	PLANT LIFE, contains, VITAMINS	True
+SOLID FOOD, is high in, VITAMINS	SOLID FOOD, contains, VITAMINS	True
+THE WATER, is higher in, CHEMICAL ELEMENT	CHEMICAL ELEMENT, is found in, WATER	True
+NATURAL PHENOMENON, is highest in, AMERICA	NATURAL PHENOMENON, is common to, AMERICA	True
+CITY, is home to, THE PYRAMIDS	THE PYRAMIDS, are in the neighborhood of, CITY	True
+POLITICAL SYSTEM, is implemented in, INDIA	INDIA, became a republic within, POLITICAL SYSTEM	False
+CITY, is in, ASIA	CITY, became the capital of, ASIA	False
+CITY, is in, ASIA	CITY, became the metropolis of, ASIA	False
+CITY, is in, EUROPE	CITY, became the center in, EUROPE	False
+CITY, is in, EUROPE	CITY, became the center of, EUROPE	False
+CITY, is in, EUROPE	CITY, became the city in, EUROPE	False
+CITY, is in, EUROPE	CITY, became the city of, EUROPE	False
+CITY, is in, EUROPE	CITY, became the hub of, EUROPE	False
+CITY, is in, EUROPE	CITY, became the port of, EUROPE	False
+CITY, is in, EUROPE	CITY, became the power in, EUROPE	False
+CITY, is in, EUROPE	CITY, had become the capital of, EUROPE	False
+CITY, is in, EUROPE	CITY, had become the centre of, EUROPE	False
+CITY, is in, EUROPE	CITY, had been the center of, EUROPE	False
+CITY, is in, TEXAS	CITY, are in the middle of, THE TEXAS	False
+CITY, is in, TEXAS	CITY, became the capital of, TEXAS	False
+PERSON, is in fact, THE HERO	PERSON, became, A HERO	True
+FOOD, is included in, A CAKE	THE CAKE, can be used as, FOOD	True
+FOOD, is included in, A CAKE	THE CAKE, is covered with, FOOD	False
+FOOD, is included in, CHOCOLATE	CHOCOLATE, consists mainly of, FOOD	False
+ASPIRIN, is indicated for, SYMPTOM	SYMPTOM, can be treated with, ASPIRIN	True
+TISSUE, is infected by, PNEUMONIA	PNEUMONIA, is an inflammation of, TISSUE	False
+BODY OF WATER, is inside, AFRICA	AFRICA, is divided by, BODY OF WATER	False
+BEVERAGE, is known as, ALCOHOL	BEVERAGE, contains, ALCOHOL	True
+PERSON, is known as the father of, THE CONSTITUTION	PERSON, drafted, THE CONSTITUTION	True
+THE WOOD, is largely used in, FURNITURE	FURNITURE, is constructed from, WOOD	True
+CITY, is located near, MOUNTAINS	THE MOUNTAINS, are on the side of, CITY	False
+CHOCOLATE, is made by adding, FOOD	FOOD, is included in, CHOCOLATE	True
+FOOD, is made by heating, SUGAR	FOOD, includes, SUGAR	True
+DEVICE, is made of, METAL	DEVICE, are best made of, METAL	False
+DEVICE, is made of, METAL	DEVICE, are formed from, THIS METAL	False
+DEVICE, is made of, METAL	DEVICE, are usually made of, METAL	True
+DEVICE, is made of, METAL	DEVICE, consists of a piece of, METAL	False
+DEVICE, is made of, METAL	DEVICE, consists of strips of, METALS	False
+DEVICE, is made of, METAL	DEVICE, is a box of, METAL	False
+DEVICE, is made of, METAL	DEVICE, is a cylinder of, METAL	False
+DEVICE, is made of, METAL	DEVICE, is composed of pieces of, METAL	False
+DEVICE, is made of, METAL	METAL, has been used in, DEVICE	True
+DEVICE, is made of, METAL	THE METAL, has been added to, DEVICE	True
+DEVICE, is made of, PLASTIC	DEVICE, consists of a piece of, PLASTIC	False
+DEVICE, is made of, PLASTIC	DEVICE, is a piece of, PLASTIC	False
+DEVICE, is made of, PLATINUM	DEVICE, are coated with, PLATINUM	False
+DEVICE, is made of, PLATINUM	DEVICE, are usually made of, PLATINUM	False
+DEVICE, is made of, PLATINUM	DEVICE, is a piece of, PLATINUM	False
+DEVICE, is made of, PLATINUM	DEVICE, is a plate of, PLATINUM	False
+DEVICE, is made of, SILICON	DEVICE, can be made from, SILICON	True
+DEVICE, is made of, SILICON	DEVICE, contain, SILICON	True
+DEVICE, is made of, STEEL	DEVICE, are cut from, STEEL	False
+DEVICE, is made of, STEEL	DEVICE, could not be made without, STEEL	False
+DEVICE, is made of, STEEL	DEVICE, is a cylinder of, STEEL	False
+DEVICE, is made of, STEEL	DEVICE, is a piece of, STEEL	False
+DEVICE, is made of, STEEL	STEEL, can be used in, DEVICE	True
+DEVICE, is made of, WOOD	DEVICE, are also made of, WOOD	True
+DEVICE, is made of, WOOD	DEVICE, are blocks of, WOOD	False
+DEVICE, is made of, WOOD	DEVICE, are made of pieces of, WOOD	False
+DEVICE, is made of, WOOD	DEVICE, are often made of, WOOD	False
+DEVICE, is made of, WOOD	DEVICE, is a beam of, WOOD	False
+DEVICE, is made of, WOOD	DEVICE, is a cylinder of, WOOD	False
+DEVICE, is made of, WOOD	DEVICE, is composed wholly of, WOOD	False
+AIR, is made up of, CHEMICAL ELEMENT	CHEMICAL ELEMENT, is found in, THE AIR	True
+DEVICE, is made up of, STEEL	DEVICE, is made of, STEEL	True
+THE AIR, is made up of, CHEMICAL ELEMENT	CHEMICAL ELEMENT, is found in, THE AIR	True
+FOOD, is mixed with, SALT	FOOD, includes, SALT	True
+MAMMAL, is native to, AFRICA	MAMMAL, also lives in, AFRICA	True
+MAMMAL, is native to, AFRICA	MAMMAL, are alive in, AFRICA	True
+MAMMAL, is native to, AFRICA	MAMMAL, are in this part of, AFRICA	True
+MAMMAL, is native to, AFRICA	MAMMAL, are inhabitants of, AFRICA	True
+MAMMAL, is native to, AFRICA	MAMMAL, is diffused throughout, AFRICA	True
+MAMMAL, is native to, AMERICA	MAMMAL, all come from, AMERICA	False
+MAMMAL, is native to, AMERICA	MAMMAL, is found in the parts of, AMERICA	True
+MAMMAL, is native to, AMERICA	MAMMAL, is found in the regions of, AMERICA	True
+MAMMAL, is native to, AUSTRALIA	MAMMAL, are found in, AUSTRALIA	True
+MAMMAL, is native to, AUSTRALIA	MAMMAL, are imported from, AUSTRALIA	False
+MAMMAL, is native to, AUSTRALIA	MAMMAL, being imported from, AUSTRALIA	True
+PLANT LIFE, is native to, AMERICA	PLANT LIFE, are found on the coast of, AMERICA	False
+PLANT LIFE, is native to, AMERICA	PLANT LIFE, are raised in, AMERICA	True
+PLANT LIFE, is native to, AMERICA	PLANT LIFE, came from, AMERICA	True
+PLANT LIFE, is native to, AMERICA	PLANT LIFE, come from, AMERICA	True
+PLANT LIFE, is native to, AMERICA	PLANT LIFE, is an plant of, AMERICA	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, are raised in, EUROPE	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, became known in, EUROPE	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, exist in parts of, EUROPE	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, have been grown in, EUROPE	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, is a plant of, EUROPE	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, is and was in, EUROPE	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, is found in parts of, EUROPE	True
+PLANT LIFE, is native to, EUROPE	PLANT LIFE, is is confined to, EUROPE	False
+CITY, is next to, THE SEA	CITY, extended into, THE SEA	False
+CITY, is next to, THE SEA	CITY, is a port on, THE SEA	False
+ANIMAL, is not, AN INSECT	THE INSECT, has been mistaken for, ANIMAL	False
+EUROPEAN COUNTRY, is not part of, THE EUROPEAN UNION	EUROPEAN COUNTRY, did not join, THE EUROPEAN UNION	False
+WOOD, is now used in, DEVICE	DEVICE, is made of, WOOD	False
+LANGUAGE, is officially recognized in, CHINA	LANGUAGE, are found in the regions of, CHINA	True
+PERSON, is often, THE HERO	PERSON, became, A HERO	True
+DISEASE, is often caused by, BACTERIA	DISEASE, is caused by, BACTERIA	True
+VIRUS, is often characterized by, DISEASE	DISEASE, is caused by, A VIRUS	True
+FOOD, is often represented by, A CAKE	FOOD, is included in, A CAKE	True
+PERSON, is on the side of, COMMUNISM	PERSON, is associated with, COMMUNISM	True
+CITY, is packed with, POLITICIANS	CITY, is overrun with, POLITICIANS	False
+CITY, is packed with, TOURISTS	CITY, attracts numbers of, TOURISTS	True
+BONE, is part of, THE MOUTH	BONE, are at the back of, THE MOUTH	False
+BONE, is part of, THE MOUTH	BONE, are the teeth in, THE MOUTH	False
+BONE, is part of, THE MOUTH	THE MOUTH, has a pair of, BONE	False
+BONE, is part of, THE SPINE	BONE, is at the bottom of, THE SPINE	False
+BONE, is part of, THE SPINE	BONE, is at the top of, THE SPINE	False
+STATE, is part of, AUSTRALIA	STATE, is a state in, AUSTRALIA	False
+CHEMICAL ELEMENT, is permanent in, AIR	CHEMICAL ELEMENT, is found in, THE AIR	True
+CHEMICAL ELEMENT, is permanent in, THE AIR	CHEMICAL ELEMENT, is found in, THE AIR	True
+SPORT, is popular in, EUROPE	SPORT, is played in, EUROPE	True
+CITY, is popular with, TOURISTS	CITY, is packed with, TOURISTS	False
+DRUG, is preferred for, INFECTIONS	DRUG, cures, INFECTIONS	True
+FOOD, is prepared by the addition of, SUGAR	FOOD, includes, SUGAR	True
+CHEMICAL, is present in, THE BONES	CHEMICAL, is essential for, BONES	False
+POLITICAL SYSTEM, is prevalent in, EUROPE	POLITICAL SYSTEM, has been used in, EUROPE	True
+DISEASE, is probably caused by, A VIRUS	DISEASE, is caused by, A VIRUS	False
+DISEASE, is probably caused by, BACTERIA	DISEASE, is caused by, BACTERIA	False
+PLANT LIFE, is processed into, FLOUR	FLOURS, are usually made from, PLANT LIFE	True
+PLANT LIFE, is processed into, FLOUR	PLANT LIFE, is ground into, FLOUR	False
+PLANT LIFE, is processed into, SUGAR	PLANT LIFE, are converted into, SUGARS	True
+PLANT LIFE, is processed into, SUGAR	PLANT LIFE, contain quantities of, SUGAR	True
+SOLID FOOD, is produced from, SHEEP	SHEEP, are bred for, SOLID FOOD	False
+SOLID FOOD, is produced from, SHEEP	SHEEP, are raised for, SOLID FOOD	False
+SOLID FOOD, is produced from, SHEEP	SHEEP, are reared for, SOLID FOOD	False
+SOLID FOOD, is produced from, SHEEP	SHEEP, are utilized for, SOLID FOOD	True
+SOLID FOOD, is produced from, SHEEP	THE SHEEP, gave and made, SOLID FOOD	False
+DRUG, is recommended for patients with, INFECTIONS	DRUG, cures, INFECTIONS	True
+CHEMICAL ELEMENT, is released into, THE AIR	CHEMICAL ELEMENT, is found in, THE AIR	True
+PLANT LIFE, is rich in, CALCIUM	PLANT LIFE, contains, CALCIUM	True
+PLANT LIFE, is rich in, THE VITAMIN	PLANT LIFE, contains, VITAMINS	True
+SOLID FOOD, is rich in, VITAMINS	SOLID FOOD, contains, VITAMINS	True
+PLANT LIFE, is rich with, IRON	PLANT LIFE, also contains, IRON	True
+PLANT LIFE, is rich with, IRON	PLANT LIFE, are an source of, IRON	True
+PLANT LIFE, is rich with, IRON	PLANT LIFE, are found to contain, IRON	True
+PLANT LIFE, is rich with, IRON	PLANT LIFE, are said to contain, IRON	True
+PLANT LIFE, is rich with, IRON	PLANT LIFE, are the sources of, IRON	False
+SOLID FOOD, is rich with, CALCIUM	SOLID FOOD, are an source of, CALCIUM	True
+SOLID FOOD, is rich with, CALCIUM	SOLID FOOD, is an source of, CALCIUM	True
+SOLID FOOD, is rich with, IRON	IRON, is found in, SOLID FOOD	True
+SOLID FOOD, is rich with, IRON	SOLID FOOD, amounted to tons of, IRON	False
+SOLID FOOD, is rich with, IRON	SOLID FOOD, are enriched with, IRON	False
+SOLID FOOD, is rich with, IRON	SOLID FOOD, contain a percentage of, IRON	True
+SOLID FOOD, is rich with, IRON	SOLID FOOD, contain an amount of, IRON	True
+SOLID FOOD, is rich with, IRON	SOLID FOOD, is an source of, IRON	True
+SOLID FOOD, is rich with, IRON	SOLID FOOD, is enriched with, IRON	False
+FOOD, is rolled out into, A CAKE	FOOD, is included in, A CAKE	True
+FOOD, is rubbed with, SALT	FOOD, includes, SALT	True
+SPORT, is said to have come to, JAPAN	SPORT, is played in, JAPAN	True
+DISEASE, is seen with, A RASH	DISEASE, can cause, A RASH	True
+SOLID FOOD, is served with, RICE	RICE, boiled with, SOLID FOOD	False
+SOLID FOOD, is served with, RICE	SOLID FOOD, cooked with, RICE	False
+FOOD, is simply, SUGAR	FOOD, includes, SUGAR	True
+CITY, is sinking into, THE SEA	CITY, is next to, THE SEA	True
+CITY, is situated at the foot of, MOUNTAIN	CITY, is located near, MOUNTAINS	True
+LANGUAGE, is spoken in, CHINA	LANGUAGE, is officially recognized in, CHINA	False
+LANGUAGE, is spoken in, INDIA	INDIA, has been the land of, LANGUAGE	False
+LANGUAGE, is spoken in, INDIA	LANGUAGE, became the language of, INDIA	False
+LANGUAGE, is spoken in, INDIA	LANGUAGE, came from, INDIA	False
+LANGUAGE, is spoken in, INDIA	LANGUAGE, first arrived in, INDIA	False
+LANGUAGE, is spoken in, INDIA	LANGUAGE, gained a footing in, INDIA	False
+LANGUAGE, is spoken in, PAKISTAN	LANGUAGE, became the language of, PAKISTAN	False
+LANGUAGE, is spoken in, PAKISTAN	LANGUAGE, is official in, PAKISTAN	False
+LANGUAGE, is spoken in, PAKISTAN	PAKISTAN, has adopted, LANGUAGE	False
+DISEASE, is spread by, A VIRUS	DISEASE, is caused by, A VIRUS	True
+DISEASE, is spread by, RATS	RATS, give me, DISEASE	False
+FOOD, is sprinkled with, SALT	FOOD, includes, SALT	True
+VIRUS, is strongly associated with, DISEASE	DISEASE, is caused by, A VIRUS	False
+IRON, is supplied by, SOLID FOOD	SOLID FOOD, is rich with, IRON	False
+ASIAN COUNTRY, is surrounded by, INDIA	ASIAN COUNTRY, is a neighbor of, INDIA	True
+CITY, is surrounded by, MOUNTAINS	CITY, is located near, MOUNTAINS	True
+CALCIUM, is the base of, SOLID FOOD	SOLID FOOD, is rich with, CALCIUM	True
+INDIA, is the birthplace of, RELIGION	RELIGION, is predominant in, INDIA	True
+CITY, is the capital in, EUROPE	CITY, is in, EUROPE	True
+CITY, is the capital of, CALIFORNIA	CITY, became the capital of, CALIFORNIA	True
+CITY, is the capital of, PENNSYLVANIA	CITY, is in, PENNSYLVANIA	True
+CITY, is the city in, ASIA	CITY, is in, ASIA	True
+CITY, is the city in, PENNSYLVANIA	CITY, is in, PENNSYLVANIA	True
+CITY, is the city of, TEXAS	CITY, is in, TEXAS	True
+RELIGION, is the creed of, INDIA	RELIGION, is predominant in, INDIA	True
+DRUG, is the drug for, INFECTION	DRUG, cures, INFECTIONS	True
+PERSON, is the emperor of, CHINA	PERSON, controlled, CHINA	True
+CALENDAR DAY, is the end of, EASTER	CALENDAR DAY, is the day after, EASTER	False
+AFRICAN COUNTRY, is the exporter of, OIL	AFRICAN COUNTRY, exports, OIL	True
+ASIAN COUNTRY, is the exporter of, RICE	ASIAN COUNTRY, exports, RICE	True
+SOLID FOOD, is the flesh of, SHEEP	SOLID FOOD, is produced from, SHEEP	True
+SOLID FOOD, is the flesh of, THE SHEEP	SOLID FOOD, is produced from, SHEEP	True
+PERSON, is the governor of, CALIFORNIA	PERSON, appointed governor of, CALIFORNIA	True
+LOCATION, is the headquarters of, THE UNITED NATIONS	THE UNITED NATIONS, assembled at, LOCATION	True
+RIVER, is the heart of, AFRICA	RIVER, flows through, AFRICA	True
+ANIMAL, is the highest of, ALL MAMMALS	ANIMAL, is defined as, A MAMMAL	True
+ASIAN COUNTRY, is the home of, ISLAM	ASIAN COUNTRY, believes in, ISLAM	True
+GERMANY, is the home of, BEVERAGE	BEVERAGE, is manufactured in, GERMANY	True
+INDIA, is the home of, RELIGION	RELIGION, is predominant in, INDIA	True
+HORMONE, is the hormone of, PREGNANCY	HORMONE, indicates, PREGNANCY	True
+BODY OF WATER, is the lake of, AFRICA	BODY OF WATER, is inside, AFRICA	True
+LANGUAGE, is the language in, PAKISTAN	LANGUAGE, is spoken in, PAKISTAN	True
+LANGUAGE, is the language of, ALL EGYPTIANS	LANGUAGE, is spoken by, EGYPTIANS	True
+LANGUAGE, is the language of, CHINA	LANGUAGE, is officially recognized in, CHINA	True
+LANGUAGE, is the language of, INDONESIA	LANGUAGE, is spoken in, INDONESIA	True
+SOLID FOOD, is the meat of, SHEEP	SOLID FOOD, is produced from, SHEEP	True
+CHEMICAL ELEMENT, is the most abundant in, THE UNIVERSE	THE UNIVERSE, consists entirely of, CHEMICAL ELEMENT	False
+CHEMICAL ELEMENT, is the most abundant on, EARTH	CHEMICAL ELEMENT, is common on, EARTH	True
+RELIGION, is the philosophy of, INDIA	RELIGION, is predominant in, INDIA	True
+CITY, is the port in, EUROPE	CITY, is in, EUROPE	True
+CITY, is the port on, THE SEA	CITY, is next to, THE SEA	True
+ISLAM, is the religion in, ASIAN COUNTRY	ASIAN COUNTRY, believes in, ISLAM	True
+ISLAM, is the religion of, ASIAN COUNTRY	ASIAN COUNTRY, believes in, ISLAM	True
+RELIGION, is the religion of, JAPAN	RELIGION, is predominant in, JAPAN	True
+CITY, is the republic in, EUROPE	CITY, is in, EUROPE	True
+BODY OF WATER, is the river in, AFRICA	BODY OF WATER, is inside, AFRICA	True
+RIVER, is the river of, AFRICA	RIVER, flows through, AFRICA	True
+PERSON, is the son of, ABRAHAM	PERSON, are the children of, ABRAHAM	True
+PERSON, is the son of, ABRAHAM	PERSON, are the descendants of, ABRAHAM	True
+SPORT, is the sport in, AMERICA	SPORT, is played in, AMERICA	True
+SPORT, is the sport of, JAPAN	SPORT, is played in, JAPAN	True
+CALENDAR DAY, is the start of, PASSOVER	PASSOVER, fell on, CALENDAR DAY	True
+STATE, is the state of, AUSTRALIA	STATE, is part of, AUSTRALIA	True
+BONE, is the tooth in, THE MOUTH	BONE, is part of, THE MOUTH	True
+DRUG, is the treatment for, INFECTION	DRUG, cures, INFECTIONS	False
+BODY OF WATER, is the waterway in, AFRICA	BODY OF WATER, is inside, AFRICA	True
+RIVER, is the waterway in, AFRICA	RIVER, flows through, AFRICA	True
+DEITY, is the wife of, ZEUS	DEITY, is the consort of, ZEUS	True
+PERSON, is to be appointed by, THE GOVERNMENT	PERSON, is employed by, THE GOVERNMENT	True
+PERSON, is to be borne by, ABRAHAM	PERSON, is the son of, ABRAHAM	True
+BEVERAGE, is traditionally from, CHINA	BEVERAGE, came from, CHINA	True
+BEVERAGE, is traditionally from, CHINA	BEVERAGE, come from, CHINA	True
+BEVERAGE, is traditionally from, SPAIN	BEVERAGE, is brought from, SPAIN	True
+BEVERAGE, is traditionally from, SPAIN	BEVERAGE, is made in, SPAIN	True
+BEVERAGE, is traditionally from, SPAIN	SPAIN, has always had, BEVERAGE	False
+BIRD, is trained to, FISH	BIRD, feeds on, FISH	False
+DISEASE, is transferred by, MOSQUITOES	DISEASE, is carried by, MOSQUITOES	True
+DISEASE, is transmitted by, AIR	DISEASE, can be contracted in, THE AIR	True
+DISEASE, is transmitted by, AIR	DISEASE, is bred in, THE AIR	False
+DISEASE, is transmitted by, AIR	THE AIR, gives you, DISEASE	False
+DISEASE, is transmitted by the bite of, A MOSQUITO	DISEASE, is transferred by, MOSQUITOES	True
+FOOD, is treated with, SUGAR	FOOD, includes, SUGAR	True
+SYMPTOM, is treated with, NSAIDS	SYMPTOM, can be treated with, NSAIDS	True
+CITY, is under the shadow of, THE MOUNTAINS	CITY, is located near, MOUNTAINS	True
+A WAR, is undertaken by, PERSON	PERSON, fought in, A WAR	True
+DRUG, is used for the treatment of, MALARIA	DRUG, cures, MALARIA	False
+MATERIAL, is used in, BOMBS	BOMBS, are masses of, MATERIAL	False
+MATERIAL, is used in, CLOTHING	THE CLOTHING, consists mainly of, MATERIAL	False
+MATERIAL, is used in, MEDICINE	MATERIAL, are frequently encountered in, MEDICINES	False
+MATERIAL, is used in, MEDICINE	MATERIAL, are of importance in, MEDICINE	False
+MATERIAL, is used in, MEDICINE	MATERIAL, are widely used in, MEDICINE	False
+MATERIAL, is used in, MEDICINE	MATERIAL, has been used extensively in, MEDICINE	False
+MATERIAL, is used in, MEDICINE	MATERIAL, have been introduced into, MEDICINE	True
+MATERIAL, is used in, MEDICINE	MATERIAL, is extensively used in, MEDICINE	False
+MATERIAL, is used in, MEDICINE	MATERIAL, is much used as, A MEDICINE	False
+MONETARY UNIT, is used in, MEXICO	MEXICO, has deposits of, MONETARY UNIT	False
+PLATINUM, is used in, DEVICE	DEVICE, is made of, PLATINUM	False
+SILICON, is used in, DEVICE	DEVICE, is made of, SILICON	False
+PLATINUM, is used on, DEVICE	DEVICE, is made of, PLATINUM	False
+PLANT LIFE, is used to make, ALCOHOL	ALCOHOL, is made from, PLANT LIFE	False
+PLANT LIFE, is used to make, BEER	BEER, can be made from, PLANT LIFE	True
+PLANT LIFE, is used to make, BEER	PLANT LIFE, are added to, BEER	False
+PLANT LIFE, is used to make, BEER	PLANT LIFE, are added to, THE BEER	False
+PLANT LIFE, is used to make, BREAD	PLANT LIFE, is grown for, BREAD	False
+SILICON, is used to make, DEVICE	DEVICE, is made of, SILICON	False
+HORMONE, is used to stimulate, OVULATION	HORMONE, causes, OVULATION	True
+MUSICAL INSTRUMENT, is used with, AN ORCHESTRA	MUSICAL INSTRUMENT, is a must in, AN ORCHESTRA	False
+DRUG, is useful for, INFECTIONS	DRUG, cures, INFECTIONS	False
+DRUG, is useful in, INFECTIONS	DRUG, cures, INFECTIONS	False
+SALT, is usually added to, FOOD	FOOD, includes, SALT	True
+DEVICE, is usually made of, STEEL	DEVICE, is made of, STEEL	False
+MATERIAL, is widely used in, MEDICINE	MATERIAL, is used in, MEDICINE	True
+RELIGION, is widespread in, INDIA	RELIGION, is predominant in, INDIA	False
+THE MOUNTAIN, is within sight of, CITY	CITY, is located near, MOUNTAINS	True
+CLOTHING, is worn by, JEWS	CLOTHING, imposed on, JEWS	False
+CLOTHING, is worn by, JEWS	JEWS, attended in, CLOTHING	False
+CLOTHING, is worn by, JEWS	JEWS, had, CLOTHING	True
+CLOTHING, is worn by, JEWS	THE JEWS, are fond of, CLOTHING	False
+CLOTHING, is worn by, JEWS	THE JEWS, had, CLOTHING	True
+CLOTHING, is worn by, JEWS	THE JEWS, have, CLOTHING	True
+CLOTHING, is worn by, THE POPE	THE POPE, escaped in, CLOTHING	False
+CLOTHING, is worn by, THE POPE	THE POPE, is covered with, CLOTHING	False
+SCIENTIST, isolated, RADIUM	SCIENTIST, extracted, RADIUM	False
+UNITED STATES PRESIDENT, issued a call for, TROOPS	UNITED STATES PRESIDENT, committed, TROOPS	False
+CHEMICAL, kill, PAIN	CHEMICAL, helps reduce, PAIN	True
+ANIMAL, kill with, VENOM	ANIMAL, has, VENOM	True
+DISEASE, killed in, EUROPE	DISEASE, decimated, EUROPE	False
+DRUG, kills, CANCER	DRUG, has been used to treat, CANCER	True
+DRUG, kills, INFECTIONS	DRUG, are useful for, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, can be used to fight, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, has been fighting, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, has been used in the treatment of, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, have been used to treat, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, is effective for, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, is indicated in the treatment of, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, is recommended for patients with, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, is the drug for, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, is the treatment for, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, is the treatment for, INFECTION	True
+DRUG, kills, INFECTIONS	DRUG, is useful for, INFECTIONS	True
+DRUG, kills, INFECTIONS	DRUG, is useful in, INFECTIONS	True
+VEHICLE, landed in, NEW YORK	VEHICLE, flies to, NEW YORK	True
+FOOD, largely consists of, SUGAR	FOOD, includes, SUGAR	True
+RULER, led against, THE PERSIANS	RULER, fought, THE PERSIANS	True
+PERSON, led on the part of, SCIENCE	PERSON, contributed to, SCIENCE	True
+EUROPEAN COUNTRY, left and joined, THE EU	EUROPEAN COUNTRY, is a member of, THE EU	True
+EUROPEAN COUNTRY, left to join, THE EU	EUROPEAN COUNTRY, is a member of, THE EU	True
+FRANCE, lent, MONETARY UNIT	MONETARY UNIT, is accepted in, FRANCE	True
+BONE, lie on either side of, THE MOUTH	BONE, is part of, THE MOUTH	True
+CITY, lies at the foot of, MOUNTAIN	CITY, is located near, MOUNTAINS	True
+CITY, lies at the foot of, THE MOUNTAINS	CITY, is located near, MOUNTAINS	True
+CITY, lies at the foot of, THESE MOUNTAINS	CITY, is located near, MOUNTAINS	True
+BODY OF WATER, lies between, AFRICA	BODY OF WATER, is inside, AFRICA	False
+CITY, lies on, THE SEA	CITY, is next to, THE SEA	True
+THIS MOUNTAIN, lies to the east of, CITY	CITY, is located near, MOUNTAINS	True
+ANIMAL, live on, CARRION	ANIMAL, eats, CARRION	True
+ANIMAL, lives and has, A FUR	ANIMAL, has, FUR	True
+ANIMAL, lives in, AFRICA	AFRICA, is the country of, ANIMAL	False
+ANIMAL, lives in, AFRICA	AFRICA, is the land of, ANIMAL	False
+ANIMAL, lives in, AFRICA	ANIMAL, are abundant in, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, are confined to, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, are in this part of, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, are natives of, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, belongs to, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, came from, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, evolved in, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, is confined to, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, is diffused throughout, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, is native to, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, is rare in, AFRICA	False
+ANIMAL, lives in, AFRICA	ANIMAL, live in the part of, AFRICA	False
+ANIMAL, lives in, AMERICA	AMERICA, has been inhabited by, ANIMAL	True
+ANIMAL, lives in, AMERICA	AMERICA, is rich in, ANIMAL	False
+ANIMAL, lives in, AMERICA	AMERICA, is the country of, ANIMAL	False
+ANIMAL, lives in, AMERICA	ANIMAL, appeared in, AMERICA	True
+ANIMAL, lives in, AMERICA	ANIMAL, are distributed throughout, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, are exclusively confined to, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, are found throughout, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, are indigenous to, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, are native to, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, are natives of, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, are represented in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, arrived in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, belong exclusively to, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, can only come from, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, captured in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, flourished in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, form throughout, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, had been introduced into, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, had been kept in, AMERICA	True
+ANIMAL, lives in, AMERICA	ANIMAL, have been found in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, have played a role in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, invaded, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, is indigenous in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, is native to, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, is the bird in, AMERICA	False
+ANIMAL, lives in, AMERICA	ANIMAL, is the bird of, AMERICA	False
+ANIMAL, lives in, AUSTRALIA	ANIMAL, are concentrated in, AUSTRALIA	False
+ANIMAL, lives in, AUSTRALIA	ANIMAL, is the dog of, AUSTRALIA	False
+ANIMAL, lives in, AUSTRALIA	AUSTRALIA, has been the home of, ANIMAL	False
+ANIMAL, lives in, TEXAS	ANIMAL, have been found in, TEXAS	True
+ANIMAL, lives in, TEXAS	ANIMAL, have come from, TEXAS	True
+PERSON, lives in, A MONASTERY	PERSON, abdicated and retired to, A MONASTERY	False
+PERSON, lives in, A MONASTERY	PERSON, are to be found in, MONASTERIES	True
+PERSON, lives in, A MONASTERY	PERSON, dwelt together in, MONASTERIES	False
+PERSON, lives in, A MONASTERY	PERSON, had been sent to, A MONASTERY	False
+PERSON, lives in, A MONASTERY	THE MONASTERIES, are full of, PERSON	False
+PERSON, lives in, A MONASTERY	THE MONASTERY, is open to, PERSON	True
+ANIMAL, lives off, ANIMALS	ALL ANIMALS, are infested by, ANIMAL	False
+ANIMAL, lives off, PLANTS	ANIMAL, eat the leaves of, THE PLANT	False
+ANIMAL, lives off, PLANTS	ANIMAL, fed upon, PLANTS	False
+ANIMAL, lives off, PLANTS	ANIMAL, feeds upon, PLANTS	True
+ANIMAL, lives off, PLANTS	ANIMAL, like to eat, SOME PLANTS	True
+ANIMAL, lives off, PLANTS	ANIMAL, live upon, PLANTS	False
+ANIMAL, lives off, PLANTS	THE PLANT, is then fed to, ANIMAL	True
+ANIMAL, lives upon, PLANTS	ANIMAL, lives off, PLANTS	False
+PERSON, looked towards, COMMUNISM	PERSON, is associated with, COMMUNISM	False
+PERSON, made a fortune from, OIL	PERSON, bought and sold, OIL	True
+COMMUNISM, made by, PERSON	PERSON, is associated with, COMMUNISM	True
+STATESMAN, made himself, DICTATOR	STATESMAN, became, A DICTATOR	True
+CHEMICAL, makes up, STEEL	CHEMICAL, is found in, STEEL	True
+CHEMICAL, makes up, STEEL	CHEMICAL, is used in making, SOME STEELS	True
+PERSON, marched forth to, WAR	PERSON, fought in, A WAR	False
+ABRAHAM, married and had, PERSON	PERSON, is the son of, ABRAHAM	True
+SOLID FOOD, may be added to, THE RICE	SOLID FOOD, is served with, RICE	False
+DEVICE, may be built of, WOOD	DEVICE, is made of, WOOD	False
+PERSON, may be converted into, AN SAINT	PERSON, became, A SAINT	False
+PLANT LIFE, may be made into, A FLOUR	PLANT LIFE, is processed into, FLOUR	False
+PLANT LIFE, may be made into, BREAD	PLANT LIFE, is used to make, BREAD	False
+SYMPTOM, may be relieved by, ASPIRIN	SYMPTOM, can be treated with, ASPIRIN	False
+DISEASE, may be transmitted by, MOSQUITOES	DISEASE, is transferred by, MOSQUITOES	False
+CANCERS, may be treated by, DRUG	DRUG, kills, CANCER	False
+INFECTIONS, may be treated with, DRUG	DRUG, cures, INFECTIONS	False
+INFECTIONS, may be treated with, DRUG	DRUG, kills, INFECTIONS	False
+THIS INFECTION, may be treated with, DRUG	DRUG, kills, INFECTIONS	False
+DRUG, may be used for, INFECTION	DRUG, cures, INFECTIONS	False
+DRUG, may be used for, INFECTION	DRUG, kills, INFECTIONS	False
+CHEMICAL, may be used to reduce, PAIN	CHEMICAL, helps reduce, PAIN	False
+DRUG, may be used to treat, INFECTIONS	DRUG, cures, INFECTIONS	False
+DISEASE, may cause, FEVER	DISEASE, causes, FEVER	False
+BEVERAGE, may have, ALCOHOL	BEVERAGE, contains, ALCOHOL	False
+MAMMAL, may have existed in, AMERICA	MAMMAL, is native to, AMERICA	False
+NATURAL PHENOMENON, may have reached, AMERICA	NATURAL PHENOMENON, is common to, AMERICA	False
+HEADACHES, may occur with, DISEASE	DISEASE, can cause, A HEADACHE	False
+THE SURGEON, may perform, PROCESS	PROCESS, is conducted by, A SURGEON	False
+NSAIDS, may reduce, SYMPTOM	SYMPTOM, can be treated with, NSAIDS	True
+DRUG, may reduce the risk of, CANCER	DRUG, kills, CANCER	False
+A FEVER, may represent, DISEASE	DISEASE, causes, FEVER	False
+DISEASE, may result from, A VIRUS	DISEASE, is caused by, A VIRUS	False
+DISEASE, means the presence of, BACTERIA	DISEASE, is caused by, BACTERIA	False
+DEVICE, measures, CURRENT	DEVICE, can be used to compare, CURRENTS	True
+DEVICE, measures, EARTHQUAKES	DEVICE, detected, EARTHQUAKES	False
+DEVICE, measures, TEMPERATURE	DEVICE, is to obtain, A TEMPERATURE	False
+DEVICE, measures, TEMPERATURE	THE TEMPERATURE, appears on, DEVICE	True
+UNIT, measures, ENERGY	ENERGY, delivered, UNIT	False
+UNIT, measures, ENERGY	ENERGY, is usually measured in, UNIT	False
+UNIT, measures, ENERGY	THIS ENERGY, amounts to, UNIT	False
+UNIT, measures, ENERGY	UNIT, is defined as the amount of, ENERGY	False
+UNIT, measures, LENGTH	LENGTH, is equal to, UNIT	False
+UNIT, measures, LENGTH	LENGTHS, are given in terms of, UNIT	False
+UNIT, measures, LENGTH	THE LENGTH, appears to have been, UNIT	False
+UNIT, measures, LENGTH	THE LENGTH, could not be less than, UNIT	False
+UNIT, measures, LENGTH	THE LENGTH, indicates the number of, UNIT	False
+UNIT, measures, LENGTH	THE LENGTH, is equal to, UNIT	False
+UNIT, measures, LENGTH	THE LENGTH, is millionths of, UNIT	False
+UNIT, measures, LENGTH	THE LENGTH, is not less than, UNIT	False
+UNIT, measures, LENGTH	THE LENGTH, may be reduced to, UNIT	False
+UNIT, measures, MASS	THE MASS, is given in, UNIT	False
+UNIT, measures, RESISTANCE	UNIT, is associated with, RESISTANCE	True
+UNITED STATES PRESIDENT, met, STALIN	UNITED STATES PRESIDENT, approached, STALIN	False
+PERSON, met to draft, A CONSTITUTION	PERSON, drafted, THE CONSTITUTION	False
+DISEASE, might be caused by, THE VIRUS	DISEASE, is caused by, A VIRUS	False
+ANIMAL, migrate to, AFRICA	ANIMAL, lives in, AFRICA	True
+MAMMAL, migrated from, AFRICA	MAMMAL, is native to, AFRICA	True
+MONARCH, moved to, BUCKINGHAM PALACE	MONARCH, lived in, BUCKINGHAM PALACE	True
+PERSON, murdered, LINCOLN	PERSON, entered and shot, LINCOLN	False
+DEVICE, must be made of, THE METAL	DEVICE, is made of, METAL	True
+WOOD, must be used for, DEVICE	DEVICE, is made of, WOOD	True
+THE AIR, must contain, CHEMICAL ELEMENT	CHEMICAL ELEMENT, is found in, THE AIR	True
+ORGANISM, must depend on, NITROGEN	ORGANISM, is affected by, NITROGEN	True
+ANIMAL, must eat, HAY	ANIMAL, eats, HAY	True
+PERSON, must have a knowledge of, THE LAWS	PERSON, interprets, LAWS	False
+JEWS, must wear, CLOTHING	CLOTHING, is worn by, JEWS	True
+PERSON, must write, OPERAS	PERSON, composed, AN OPERA	False
+PERSON, named him, MINISTER	PERSON, appoints, MINISTERS	False
+UNITED STATES PRESIDENT, negotiated with, BRITAIN	UNITED STATES PRESIDENT, made peace with, BRITAIN	False
+ANIMAL, nibbled at, THE CROPS	ANIMAL, eats, CROPS	True
+PERSON, now appears on, TELEVISION	PERSON, appeared on, TELEVISION	True
+ANIMAL, obtain, WINGS	ANIMAL, has, WINGS	True
+CANADA, occupied along, BODY OF WATER	BODY OF WATER, is enclosed by, CANADA	False
+GEOLOGICAL FORMATION, occur in, NEW ZEALAND	GEOLOGICAL FORMATION, is common to, NEW ZEALAND	False
+CHEMICAL, occurring in, STEELS	CHEMICAL, makes up, STEEL	False
+FEVER, occurs after, DISEASE	DISEASE, causes, FEVER	True
+HEADACHE, occurs in, DISEASE	DISEASE, can cause, A HEADACHE	True
+NATURAL PHENOMENON, occurs in, JAPAN	NATURAL PHENOMENON, are common in, JAPAN	False
+NATURAL PHENOMENON, occurs in, JAPAN	NATURAL PHENOMENON, are frequent in, JAPAN	False
+NATURAL PHENOMENON, occurs in, JAPAN	NATURAL PHENOMENON, has shaken, JAPAN	False
+NATURAL PHENOMENON, occurs in, JAPAN	NATURAL PHENOMENON, is common in, JAPAN	False
+NATURAL PHENOMENON, occurs in, JAPAN	NATURAL PHENOMENON, is highest in, JAPAN	False
+NATURAL PHENOMENON, occurs in, JAPAN	NATURAL PHENOMENON, is universal in, JAPAN	False
+THE VITAMIN, occurs in, PLANT LIFE	PLANT LIFE, contains, VITAMINS	True
+PLANT LIFE, occurs throughout, EUROPE	PLANT LIFE, is native to, EUROPE	False
+ANIMAL, once lived in, AMERICA	ANIMAL, lives in, AMERICA	False
+ANIMAL, only have, HORNS	ANIMAL, has, HORNS	True
+FRANCES, only pays, MONETARY UNIT	MONETARY UNIT, is accepted in, FRANCE	True
+UNITED STATES PRESIDENT, ordered out, THE TROOPS	UNITED STATES PRESIDENT, committed, TROOPS	True
+ANIMAL, originated in, AMERICA	ANIMAL, lives in, AMERICA	True
+BEVERAGE, originated in, CHINA	BEVERAGE, is traditionally from, CHINA	False
+ELEPHANTS, originated in, CONTINENT	CONTINENT, is home to, ELEPHANTS	True
+ANIMAL, originating in, AUSTRALIA	ANIMAL, lives in, AUSTRALIA	True
+PERSON, painted as, THE SAINT	PERSON, became, A SAINT	True
+PERSON, perform on, TELEVISION	PERSON, appeared on, TELEVISION	True
+PERSON, plays in, A BAND	PERSON, became the leader of, A BAND	False
+PERSON, plays in, A BAND	PERSON, is at the head of, A BAND	False
+PERSON, plays in, A BAND	THE BAND, is led by, PERSON	False
+MONTH, poured with, RAIN	MONTH, has a lot of, RAIN	False
+PERSON, preached, COMMUNISM	PERSON, is associated with, COMMUNISM	True
+PHILOSOPHER, preached, DEMOCRACY	PHILOSOPHER, discussed, DEMOCRACY	True
+ANIMAL, prefer, HAY	ANIMAL, eats, HAY	True
+EUROPEAN COUNTRY, prepared against, RUSSIA	EUROPEAN COUNTRY, invaded, RUSSIA	False
+WORKER, prepared to make, THE CLOTHES	WORKER, makes, CLOTHES	True
+WORKER, prepares, FOOD	WORKER, can prepare, FOOD	True
+WORKER, prepares, FOOD	WORKER, could produce, FOOD	True
+WORKER, prepares, MEAT	WORKER, cut a piece of, MEAT	False
+PERSON, presented to the academy of, SCIENCES	PERSON, contributed to, SCIENCE	True
+DISEASE, prevailed extensively in, EUROPE	DISEASE, decimated, EUROPE	False
+LANGUAGE, prevails in, SWITZERLAND	LANGUAGE, has official status in, SWITZERLAND	False
+ORGAN, processes, FOOD	FOOD, is dumped into, ORGAN	True
+ORGAN, processes, FOOD	FOOD, may enter, ORGAN	True
+ORGAN, processes, FOOD	FOOD, passes from the stomach into, ORGAN	True
+ORGAN, processes, FOOD	THE FOOD, gathers in, ORGAN	True
+ORGAN, processes, FOOD	THE FOOD, is drawn up through, ORGAN	True
+ORGAN, processes, FOOD	THE FOOD, moves into, ORGAN	True
+STATESMAN, proclaimed, DICTATOR	STATESMAN, became, A DICTATOR	True
+SPAIN, produced, MONETARY UNIT	MONETARY UNIT, is used in, SPAIN	True
+WORKER, produced a piece of, MEAT	WORKER, prepares, MEAT	True
+CAPITALISM, produced by, PERSON	PERSON, is associated with, CAPITALISM	True
+EUROPEAN COUNTRY, produces, CHEESE	CHEESE, can only be made in, EUROPEAN COUNTRY	False
+EUROPEAN COUNTRY, produces, CHEESE	CHEESE, is imported from, EUROPEAN COUNTRY	False
+EUROPEAN COUNTRY, produces, CHEESE	CHEESE, is the product of, EUROPEAN COUNTRY	False
+EUROPEAN COUNTRY, produces, CHEESE	EUROPEAN COUNTRY, is an exporter of, CHEESE	False
+EUROPEAN COUNTRY, produces, CHEESE	SOME CHEESE, is imported from, EUROPEAN COUNTRY	False
+EUROPEAN COUNTRY, produces, WINE	THE WINE, is imported from, EUROPEAN COUNTRY	False
+EUROPEAN COUNTRY, produces, WINE	WINE, came from, EUROPEAN COUNTRY	False
+EUROPEAN COUNTRY, produces, WINE	WINE, is now made in, EUROPEAN COUNTRY	False
+MONTH, produces, THE MOST RAIN	MONTH, has a lot of, RAIN	True
+WORKER, produces, BREAD	WORKER, begin producing, BREAD	False
+EUROPEAN COUNTRY, produces a quantity of, WINE	EUROPEAN COUNTRY, produces, WINE	True
+PERSON, proposed, MORE TAX	PERSON, have advocated, A TAX	True
+PERSON, proposed, MORE TAX	PERSON, joined in urging, A TAX	True
+PERSON, proposed, MORE TAX	PERSON, negotiated, A TAX	True
+CHEMICAL, protect from, STRESS	CHEMICAL, helps reduce, STRESS	True
+PERSON, proved to be, THE SAINT	PERSON, became, A SAINT	True
+PLANT LIFE, provide, IRON	PLANT LIFE, is rich with, IRON	False
+SOLID FOOD, provide, VITAMIN A	SOLID FOOD, contains, VITAMINS	True
+INTERNATIONAL ORGANIZATION, provides, AID	INTERNATIONAL ORGANIZATION, came to, THE AID	False
+PHILOSOPHER, questioned, THE CHURCH	PHILOSOPHER, had accused, THE CHURCH	False
+PHILOSOPHER, questioned, THE GOVERNMENT	PHILOSOPHER, prodded, GOVERNMENTS	False
+PERSON, ran for governor of, CALIFORNIA	PERSON, is the governor of, CALIFORNIA	False
+PERSON, reached, THE NORTH POLE	PERSON, arriving at, THE NORTH POLE	True
+PERSON, reached, THE NORTH POLE	PERSON, carried to, THE NORTH POLE	False
+PERSON, reached, THE NORTH POLE	PERSON, dwelt at, THE NORTH POLE	False
+PERSON, reached, THE NORTH POLE	PERSON, had discovered, THE NORTH POLE	False
+PERSON, reached, THE NORTH POLE	PERSON, has flown to, THE NORTH POLE	False
+PERSON, reached the summit of, EVEREST	PERSON, climbed, THE EVEREST	True
+DEITY, received prayers from, GREEKS	THE GREEKS, adore as, DEITY	True
+DEITY, received prayers from, GREEKS	THE GREEKS, had dedicated to, DEITY	True
+DEITY, received prayers from, ROMANS	THE ROMANS, prayed to, DEITY	False
+RULER, reconquered, JERUSALEM	RULER, conquered, JERUSALEM	True
+LIVING THING, reconstructs, BROKEN BONES	LIVING THING, can set, BROKEN BONES	True
+PERSON, records, JESUS	PERSON, followed, JESUS	True
+DRUG, reduced the incidence of, CANCER	DRUG, kills, CANCER	False
+DRUG, reduces the incidence of, CANCER	DRUG, kills, CANCER	False
+PNEUMONIA, refers to inflammation of, TISSUE	TISSUE, is infected by, PNEUMONIA	True
+RULER, reigned in, JERUSALEM	RULER, conquered, JERUSALEM	False
+CHEMICAL, relieves, HEADACHE	CHEMICAL, is an cure for, HEADACHE	False
+CHEMICAL, relieves, HEADACHE	CHEMICAL, is employed in the treatment of, HEADACHES	False
+DRUG, relieves, HEADACHES	DRUG, eliminates, HEADACHE	False
+DRUG, relieves, HEADACHES	DRUG, may help to relieve, HEADACHES	True
+DRUG, relieves, PAIN	DRUG, also relieves, THE PAIN	True
+DRUG, relieves, PAIN	DRUG, are effective against, PAIN	False
+DRUG, relieves, PAIN	DRUG, are specific for, THE PAIN	False
+DRUG, relieves, PAIN	DRUG, eliminates, PAIN	False
+DRUG, relieves, PAIN	DRUG, is a treatment of, THIS PAIN	False
+DRUG, relieves, PAIN	DRUG, is required on account of, THE PAIN	False
+DRUG, relieves, PAIN	DRUG, is required to reduce, THE PAIN	False
+DRUG, relieves, PAIN	DRUG, is required to relieve, THE PAIN	False
+DRUG, relieves, PAIN	PAIN, can be managed with, DRUG	False
+DRUG, relieves, PAIN	PAIN, may be alleviated by, DRUG	True
+DRUG, relieves, PAIN	PAIN, may be relieved by the application of, DRUG	True
+DRUG, relieves, PAIN	PAIN, must be relieved by, DRUG	False
+DRUG, relieves, PAIN	THE PAIN, may respond to, DRUG	False
+DRUG, relieves, PAIN	THE PAIN, must be relieved by, DRUG	False
+STATESMAN, remained as, DICTATOR	STATESMAN, became, A DICTATOR	True
+PERSON, remained on the field of, BATTLE	PERSON, fought in, A BATTLE	True
+CITY, remained the capital of, EUROPE	CITY, is in, EUROPE	True
+CITY, remained the center of, EUROPE	CITY, is in, EUROPE	True
+LANGUAGE, remained the language of, INDIA	LANGUAGE, is spoken in, INDIA	True
+CHEMICAL, removes, COLOR	CHEMICAL, discharges, THE COLOR	True
+CHEMICAL, removes, COLOR	THE COLOR, is destroyed by, CHEMICAL	False
+CHEMICAL, removes, STAINS	CHEMICAL, is used for removing, STAINS	False
+CHEMICAL, removes, STAINS	THE STAIN, is diluted with, CHEMICAL	True
+CHEMICAL, removes, STAINS	THE STAIN, is washed off with, CHEMICAL	False
+PERSON, replaced, NIXON	PERSON, narrowly defeated, NIXON	False
+ANIMAL, represents, ENGLAND	ANIMAL, are esteemed in, ENGLAND	True
+UNIT, represents an increase in, ENERGY	UNIT, measures, ENERGY	True
+RULER, repulsed, THE PERSIANS	RULER, fought, THE PERSIANS	True
+DEVICE, require to be of, METAL	DEVICE, is made of, METAL	True
+ENERGY, required to produce, UNIT	UNIT, measures, ENERGY	True
+DISEASE, requires, ANTIBIOTICS	ANTIBIOTICS, may be prescribed for, DISEASE	True
+DISEASE, requires, ANTIBIOTICS	DISEASE, can be cured with, ANTIBIOTICS	False
+DISEASE, requires, CHEMOTHERAPY	CHEMOTHERAPY, can cure, DISEASE	False
+DISEASE, requires, CHEMOTHERAPY	DISEASE, are responsive to, CHEMOTHERAPY	True
+ORGANISM, requires, CARBON DIOXIDE	CARBON DIOXIDE, is absorbed by, ORGANISM	True
+ORGANISM, requires, CARBON DIOXIDE	ORGANISM, breathe in, CARBON DIOXIDE	False
+PROCESS, requires, A SURGEON	PROCESS, is conducted by, A SURGEON	True
+SCIENCE, researches, ANIMALS	SCIENCE, is concerned with, ANIMALS	True
+SCIENCE, researches, ANIMALS	SCIENCE, is the classification of, ANIMALS	False
+ARTIST, resided in, PARIS	ARTIST, established himself in, PARIS	False
+ARTIST, resided in, PARIS	ARTIST, moved to, PARIS	False
+ARTIST, resided in, PARIS	ARTIST, remained in, PARIS	False
+PLANT LIFE, resided in, AMERICA	PLANT LIFE, is native to, AMERICA	False
+PERSON, resigned and retired to, THE MONASTERY	PERSON, lives in, A MONASTERY	True
+UNITED STATES PRESIDENT, responded by sending, TROOPS	UNITED STATES PRESIDENT, committed, TROOPS	True
+PERSON, returned as, A HERO	PERSON, became, A HERO	True
+ANIMAL, returned to, AFRICA	ANIMAL, lives in, AFRICA	True
+ANIMAL, returned to, AMERICA	ANIMAL, lives in, AMERICA	True
+PROCESS, reveals, THE SLOPE	THE SLOPE, is obtained by, PROCESS	True
+PHILOSOPHER, revived, MATHEMATICS	PHILOSOPHER, discussed, MATHEMATICS	True
+ANIMAL, roamed over, AMERICA	ANIMAL, lives in, AMERICA	True
+ELEPHANTS, roamed over, CONTINENT	CONTINENT, is home to, ELEPHANTS	False
+PERSON, ruled, EGYPT	PERSON, appointed governor of, EGYPT	False
+PERSON, ruled, EGYPT	PERSON, became president of, EGYPT	False
+PERSON, ruled, EGYPT	PERSON, became the master of, EGYPT	True
+PERSON, ruling in, FLORIDA	PERSON, is the governor of, FLORIDA	False
+PERSON, sailed and discovered, AMERICA	PERSON, discovered, AMERICA	True
+MUSICIAN, sat and played, THE PIANO	MUSICIAN, played, THE PIANO	True
+THE GREEK, saw and recognized, DEITY	DEITY, received prayers from, GREEKS	False
+GEOLOGICAL PERIOD, saw the rise of, THE DINOSAURS	DINOSAURS, evolved during, GEOLOGICAL PERIOD	True
+GEOLOGICAL PERIOD, saw the rise of, THE DINOSAURS	THE DINOSAURS, appeared in, GEOLOGICAL PERIOD	True
+GEOLOGICAL PERIOD, saw the rise of, THE DINOSAURS	THE DINOSAURS, originated in, GEOLOGICAL PERIOD	False
+FOOD, seasoned with, SALT	FOOD, includes, SALT	True
+BODY PART, secretes, HORMONES	BODY PART, are stimulated to release, HORMONE	False
+BODY PART, secretes, HORMONES	BODY PART, may secrete, HORMONES	True
+ANIMAL, seize, AN ANTELOPE	ANIMAL, hunts, ANTELOPES	False
+ASIAN COUNTRY, sends, MORE RICE	ASIAN COUNTRY, exports, RICE	True
+ASIAN COUNTRY, sent, RICE	ASIAN COUNTRY, exports, RICE	False
+PERSON, served as governor of, CALIFORNIA	PERSON, is the governor of, CALIFORNIA	False
+PERSON, served throughout, THE WAR	PERSON, fought in, A WAR	False
+RULER, set out against, THE PERSIANS	RULER, fought, THE PERSIANS	False
+PERSON, set up in, THE ALPS	PERSON, lives in, THE ALPS	False
+EACH MINISTER, shall be appointed by, PERSON	PERSON, appoints, MINISTERS	True
+THE GOVERNMENT, shall be represented by, PERSON	PERSON, is employed by, THE GOVERNMENT	True
+LANGUAGE, shall be the language of, PAKISTAN	LANGUAGE, is spoken in, PAKISTAN	True
+INFECTION, should be controlled with, DRUG	DRUG, cures, INFECTIONS	False
+DEVICE, should be made of, STEEL	DEVICE, is made of, STEEL	False
+THE CLOTHING, should be of, MATERIAL	MATERIAL, is used in, CLOTHING	True
+PROCESS, should be performed by, SURGEONS	PROCESS, is conducted by, A SURGEON	True
+THE FOOD, should be prepared by, WORKER	WORKER, prepares, FOOD	True
+DISEASE, should be treated with, AN ANTIBIOTIC	DISEASE, requires, ANTIBIOTICS	False
+DISEASE, should be treated with, CHEMOTHERAPY	DISEASE, requires, CHEMOTHERAPY	False
+PAIN, should be treated with, DRUG	DRUG, relieves, PAIN	True
+THAT CANCER, should be treated with, DRUG	DRUG, kills, CANCER	False
+ORGANISM, should breathe, OXYGEN	ORGANISM, requires, OXYGEN	True
+DEVICE, show the course of, THE CURRENTS	DEVICE, measures, CURRENT	True
+NORWAY, shows, GEOLOGICAL FORMATION	GEOLOGICAL FORMATION, is common to, NORWAY	False
+EUROPEAN COUNTRY, signed a pact with, RUSSIA	EUROPEAN COUNTRY, is an ally of, RUSSIA	True
+RUSSIA, signed a pact with, EUROPEAN COUNTRY	EUROPEAN COUNTRY, is an ally of, RUSSIA	True
+POLITICIAN, signed the declaration of, INDEPENDENCE	POLITICIAN, advocated, INDEPENDENCE	True
+ANIMAL, soared with, WINGS	ANIMAL, has, WINGS	True
+ANIMAL, sometimes have, HORNS	ANIMAL, has, HORNS	False
+MATERIAL, soon became, A MEDICINE	MATERIAL, is used in, MEDICINE	True
+INTERNATIONAL ORGANIZATION, sought to promote, PEACE	INTERNATIONAL ORGANIZATION, promotes, PEACE	False
+PERSON, sparked, THE CIVIL WAR	PERSON, fought in, THE CIVIL WAR	True
+ALL EGYPTIANS, speak, LANGUAGE	LANGUAGE, is spoken by, EGYPTIANS	True
+AFRICAN COUNTRY, speaks, ENGLISH	ENGLISH, is the language in, AFRICAN COUNTRY	False
+AFRICAN COUNTRY, speaks, ENGLISH	ENGLISH, is the language of, AFRICAN COUNTRY	False
+ASIAN COUNTRY, speaks, PERSIAN	PERSIAN, is the language of, ASIAN COUNTRY	False
+ASIAN COUNTRY, speaks, URDU	ASIAN COUNTRY, has adopted, URDU	False
+ASIAN COUNTRY, speaks, URDU	URDU, became the language of, ASIAN COUNTRY	False
+ANIMAL, sped on, WINGS	ANIMAL, has, WINGS	True
+CANADA, spends, MONETARY UNIT	MONETARY UNIT, is accepted in, CANADA	True
+ANIMAL, spit, VENOM	ANIMAL, has, VENOM	True
+PERSON, spoke on, TELEVISION	PERSON, appeared on, TELEVISION	True
+PERSON, sponsors, COMMUNISM	PERSON, is associated with, COMMUNISM	True
+ANIMAL, sprang up on, WINGS	ANIMAL, has, WINGS	True
+ANIMAL, spread throughout, AFRICA	ANIMAL, lives in, AFRICA	True
+PERSON, stands at the head of, THE SAINTS	PERSON, became, A SAINT	True
+DISEASE, starts with, A RASH	DISEASE, can cause, A RASH	True
+ANIMAL, stick to, AMERICA	ANIMAL, lives in, AMERICA	True
+POLITICAL SYSTEM, stood at the head of, EUROPE	POLITICAL SYSTEM, is prevalent in, EUROPE	True
+DISEASE, struck, EUROPE	DISEASE, decimated, EUROPE	False
+PHILOSOPHER, studied, MATHEMATICS	PHILOSOPHER, discussed, MATHEMATICS	False
+SCIENCE, studies, LIFE	SCIENCE, is the study of, LIFE	False
+SCIENCE, studies, THE EARTH	SCIENCE, is the history of, THE EARTH	True
+SCIENCE, studies, THE EARTH	SCIENCE, represented, THE EARTH	False
+SCIENCE, studies, THE EARTH	SCIENCE, revealed differences between, THE EARTH	False
+SOLID FOOD, stuffed with, RICE	SOLID FOOD, is served with, RICE	True
+ALL EGYPT, submitted to, PERSON	PERSON, ruled, EGYPT	True
+CONTINENT, suffers from, DROUGHTS	CONTINENT, experienced, A DROUGHT	True
+CONTINENT, suffers from, DROUGHTS	CONTINENT, is suffering, THE DROUGHT	False
+CONTINENT, suffers from, POVERTY	POVERTY, has long been in, CONTINENT	False
+CONTINENT, suffers from, POVERTY	POVERTY, increased throughout, CONTINENT	False
+CONTINENT, suffers from, POVERTY	POVERTY, is concentrated in, CONTINENT	False
+STATE, supplies, CORN	CORN, came from, STATE	False
+UNITED STATES PRESIDENT, supported, BRITAIN	UNITED STATES PRESIDENT, made peace with, BRITAIN	True
+BODY OF WATER, surrounds, BRITAIN	BODY OF WATER, is in the latitude of, BRITAIN	True
+BODY OF WATER, surrounds, BRITAIN	BRITAIN, is separated by, BODY OF WATER	True
+BODY OF WATER, surrounds, BRITAIN	BRITAIN, possesses in, BODY OF WATER	True
+PERSON, survived, THE CIVIL WAR	PERSON, fought in, THE CIVIL WAR	True
+PERSON, sustained a loss in, THIS BATTLE	PERSON, fought in, A BATTLE	True
+TERRITORY, swarmed with, KANGAROOS	TERRITORY, is inhabited by, KANGAROOS	True
+DISEASE, swept across, EUROPE	DISEASE, decimated, EUROPE	False
+DISEASE, swept through, EUROPE	DISEASE, decimated, EUROPE	False
+MAMMAL, swim in, THE SEA	MAMMAL, lives in, THE SEA	False
+SPAIN, switched to, MONETARY UNIT	MONETARY UNIT, is used in, SPAIN	True
+ANIMAL, swung on, WINGS	ANIMAL, has, WINGS	True
+THE AIR, tainted with, DISEASE	DISEASE, is transmitted by, AIR	True
+PHILOSOPHER, taught, MATHEMATICS	PHILOSOPHER, discussed, MATHEMATICS	True
+AFRICA, teems with, ANIMAL	ANIMAL, lives in, AFRICA	True
+LIVING THING, tend to have, TISSUE	LIVING THING, rebuilds, TISSUE	False
+DRUG, terminates, HEADACHE	DRUG, relieves, HEADACHES	True
+PERSON, to reach, THE NORTH POLE	PERSON, reached, THE NORTH POLE	False
+PERSON, to sign, THE MAGNA CARTA	PERSON, signed, THE MAGNA CARTA	False
+PERSON, took refuge in, THE MONASTERY	PERSON, lives in, A MONASTERY	True
+CITY, took the lead with, GREECE	CITY, had influence in, GREECE	True
+THE LENGTH, totals, UNIT	UNIT, measures, LENGTH	True
+AFRICAN COUNTRY, trades with, FRANCE	FRANCE, sold to, AFRICAN COUNTRY	False
+ASIAN COUNTRY, trades with, BRITAIN	ASIAN COUNTRY, had relations with, BRITAIN	True
+ASIAN COUNTRY, trades with, BRITAIN	BRITAIN, exported to, ASIAN COUNTRY	False
+UNITED STATES PRESIDENT, traveled to, LONDON	UNITED STATES PRESIDENT, flew to, LONDON	False
+UNITED STATES PRESIDENT, traveled to, LONDON	UNITED STATES PRESIDENT, had been living in, LONDON	False
+UNITED STATES PRESIDENT, traveled to, LONDON	UNITED STATES PRESIDENT, is now in, LONDON	False
+UNITED STATES PRESIDENT, traveled to, LONDON	UNITED STATES PRESIDENT, returned from, LONDON	False
+UNITED STATES PRESIDENT, traveled to, LONDON	UNITED STATES PRESIDENT, set out for, LONDON	True
+UNITED STATES PRESIDENT, traveled to, PARIS	UNITED STATES PRESIDENT, brought from, PARIS	False
+UNITED STATES PRESIDENT, traveled to, PARIS	UNITED STATES PRESIDENT, came back from, PARIS	False
+UNITED STATES PRESIDENT, traveled to, PARIS	UNITED STATES PRESIDENT, joined in, PARIS	False
+UNITED STATES PRESIDENT, traveled to, PARIS	UNITED STATES PRESIDENT, left, PARIS	False
+UNITED STATES PRESIDENT, traveled to, PARIS	UNITED STATES PRESIDENT, returned to, PARIS	False
+HEADACHE, treated with, CHEMICAL	CHEMICAL, relieves, HEADACHE	False
+PROCESS, treats, WOUNDS	AN WOUND, should be treated by, PROCESS	False
+PROCESS, treats, WOUNDS	ANY WOUND, can be closed with, PROCESS	False
+PROCESS, treats, WOUNDS	THE WOUND, cauterized with, PROCESS	False
+PROCESS, treats, WOUNDS	THE WOUND, should be treated with, PROCESS	False
+PROCESS, treats, WOUNDS	WOUNDS, need, PROCESS	False
+PROCESS, treats, WOUNDS	WOUNDS, often require, PROCESS	False
+WORKER, treats, WOUNDS	WORKER, examined, THE WOUND	False
+PERSON, triumphed in, THE WAR	PERSON, fought in, A WAR	True
+CITY, unfortunately has, MOUNTAINS	CITY, is located near, MOUNTAINS	True
+ANIMAL, use, VENOM	ANIMAL, has, VENOM	True
+ORGANISM, use up, CARBON DIOXIDE	ORGANISM, requires, CARBON DIOXIDE	False
+ANIMAL, usually covered with, SCALES	ANIMAL, is covered in, SCALES	False
+DISEASE, usually is accompanied by, A FEVER	DISEASE, causes, FEVER	False
+BODY PART, usually supplies, HORMONE	BODY PART, secretes, HORMONES	True
+TOURISTS, visit, CITY	CITY, is packed with, TOURISTS	False
+PERSON, volunteered in, THE CIVIL WAR	PERSON, fought in, THE CIVIL WAR	True
+ANIMAL, vomits, VENOM	ANIMAL, has, VENOM	True
+PERSON, walked on, THE MOON	PERSON, had landed on, THE MOON	True
+PERSON, walked on, THE MOON	PERSON, to land on, THE MOON	True
+PERSON, walked on, THE MOON	PERSON, to walk on, THE MOON	True
+PERSON, want, COMMUNISM	PERSON, is associated with, COMMUNISM	True
+THE BATTLE, was a defeat of, PERSON	PERSON, fought in, A BATTLE	True
+THE CONSTITUTION, was a effort of, PERSON	PERSON, drafted, THE CONSTITUTION	False
+THE BREAD, was a mixture of, PLANT LIFE	PLANT LIFE, is used to make, BREAD	True
+ARTIST, was a native of, PARIS	ARTIST, resided in, PARIS	True
+PERSON, was a patron of, SCIENCE	PERSON, contributed to, SCIENCE	True
+PERSON, was a representative from, TEXAS	PERSON, is a politician from, TEXAS	True
+FURNITURE, was a slab of, WOOD	FURNITURE, is constructed from, WOOD	True
+PERSON, was a soldier in, THE WAR	PERSON, fought in, A WAR	False
+ARTIST, was a student in, PARIS	ARTIST, resided in, PARIS	True
+FURNITURE, was a table of, WOOD	FURNITURE, is constructed from, WOOD	True
+TERRITORY, was acquired by, THE UNITED STATES	TERRITORY, had been ceded to, THE UNITED STATES	True
+TERRITORY, was acquired by, THE UNITED STATES	THE UNITED STATES, gained control of, TERRITORY	True
+TERRITORY, was acquired by, THE UNITED STATES	THE UNITED STATES, had overtaken, TERRITORY	False
+STATESMAN, was actually, THE DICTATOR	STATESMAN, became, A DICTATOR	True
+PERSON, was already, A HERO	PERSON, became, A HERO	True
+CITY, was among, THE MOUNTAINS	CITY, is located near, MOUNTAINS	True
+PHILOSOPHER, was an student of, MATHEMATICS	PHILOSOPHER, discussed, MATHEMATICS	True
+LOCATION, was attacked by, TERRORISTS	TERRORISTS, bombed in, LOCATION	False
+LOCATION, was attacked by, TERRORISTS	TERRORISTS, infiltrated, LOCATION	True
+LOCATION, was attacked by, TERRORISTS	TERRORISTS, take, LOCATION	False
+PERSON, was awarded, A MEDAL	PERSON, however obtained, THE MEDAL	True
+PERSON, was awarded, A MEDAL	PERSON, is to accept, A MEDAL	True
+PERSON, was awarded, A MEDAL	PERSON, seems to have won, A MEDAL	False
+PERSON, was awarded, A MEDAL	THE MEDAL, is awarded annually to, PERSON	False
+SCIENTIST, was awarded, A NOBEL PRIZE	SCIENTIST, have won, NOBEL PRIZES	False
+PERSON, was banished to, THE MONASTERY	PERSON, lives in, A MONASTERY	True
+RULER, was beaten by, THE ROMANS	RULER, fought, THE ROMANS	True
+THE BATTLE, was begun by, PERSON	PERSON, fought in, A BATTLE	True
+CITY, was bombed by, THE ALLIES	ALLIES, made an attack upon, CITY	True
+CITY, was bombed by, THE ALLIES	CITY, fought by, THE ALLIES	True
+ARTIST, was born and died at, PARIS	ARTIST, resided in, PARIS	True
+ARTIST, was born and died in, PARIS	ARTIST, resided in, PARIS	True
+MONARCH, was born at, BUCKINGHAM PALACE	MONARCH, lived in, BUCKINGHAM PALACE	True
+MONARCH, was born at, VERSAILLES	MONARCH, lived in, VERSAILLES	True
+ARTIST, was born in, BARCELONA	ARTIST, lived in, BARCELONA	True
+PERSON, was born in, POLAND	PERSON, was a native of, POLAND	False
+UNITED STATES PRESIDENT, was born in, NEW YORK	UNITED STATES PRESIDENT, came from, NEW YORK	True
+UNITED STATES PRESIDENT, was born in, OHIO	UNITED STATES PRESIDENT, came from, OHIO	True
+UNITED STATES PRESIDENT, was born in, TEXAS	UNITED STATES PRESIDENT, came from, TEXAS	True
+UNITED STATES PRESIDENT, was born in the county in, VIRGINIA	UNITED STATES PRESIDENT, was born in, VIRGINIA	True
+SWITZERLAND, was bounded on the north by, EUROPEAN COUNTRY	EUROPEAN COUNTRY, borders, SWITZERLAND	True
+SOME BEER, was brewed from, PLANT LIFE	PLANT LIFE, is used to make, BEER	True
+BEVERAGE, was brought from, CHINA	BEVERAGE, is traditionally from, CHINA	False
+STATESMAN, was called and made, DICTATOR	STATESMAN, became, A DICTATOR	True
+STATESMAN, was called to be, DICTATOR	STATESMAN, became, A DICTATOR	True
+PERSON, was carried after, THE BATTLE	PERSON, fought in, A BATTLE	True
+THE RASH, was caused by, DISEASE	DISEASE, can cause, A RASH	True
+CALENDAR DAY, was celebrated in, CHINA	CALENDAR DAY, is a festival in, CHINA	False
+CALENDAR DAY, was celebrated in, INDIA	CALENDAR DAY, is a festival in, INDIA	False
+CALENDAR DAY, was celebrated over, INDIA	CALENDAR DAY, is a festival in, INDIA	False
+STATESMAN, was chosen, DICTATOR	STATESMAN, became, A DICTATOR	True
+TERRITORY, was claimed by, THE UNITED STATES	TERRITORY, was acquired by, THE UNITED STATES	False
+SCIENCE, was common to, ALL ANIMALS	SCIENCE, researches, ANIMALS	True
+THE BREAD, was composed of, PLANT LIFE	PLANT LIFE, is used to make, BREAD	True
+THE CIVIL WAR, was conducted with, PERSON	PERSON, fought in, THE CIVIL WAR	True
+THE SALT, was confined to, FOOD	FOOD, includes, SALT	True
+EGYPT, was conquered by, PERSON	PERSON, ruled, EGYPT	True
+PERSON, was consigned to, A MONASTERY	PERSON, lives in, A MONASTERY	False
+TERRITORY, was controlled by, QUEEN VICTORIA	QUEEN VICTORIA, ascended the throne of, TERRITORY	False
+TERRITORY, was controlled by, QUEEN VICTORIA	QUEEN VICTORIA, became empress of, TERRITORY	False
+TERRITORY, was controlled by, THE BRITISH EMPIRE	TERRITORY, has expanded in, THE BRITISH EMPIRE	False
+TERRITORY, was controlled by, THE BRITISH EMPIRE	TERRITORY, should remain within, THE BRITISH EMPIRE	False
+TERRITORY, was controlled by, THE BRITISH EMPIRE	TERRITORY, to remain within, THE BRITISH EMPIRE	False
+TERRITORY, was controlled by, THE BRITISH EMPIRE	TERRITORY, was added to, THE BRITISH EMPIRE	False
+TERRITORY, was controlled by, THE BRITISH EMPIRE	THE BRITISH EMPIRE, comprises, TERRITORY	False
+TERRITORY, was controlled by, THE BRITISH EMPIRE	THE BRITISH EMPIRE, consists of, TERRITORY	False
+DISEASE, was conveyed in, THE AIR	DISEASE, is transmitted by, AIR	False
+THE FOOD, was cooked by, WORKER	WORKER, prepares, FOOD	True
+SCIENCE, was cultivated by, PERSON	PERSON, contributed to, SCIENCE	True
+PERSON, was defeated at the battle of, WATERLOO	PERSON, was defeated at, WATERLOO	True
+PERSON, was defeated in the battle of, WATERLOO	PERSON, was defeated at, WATERLOO	True
+PERSON, was descended from, ABRAHAM	PERSON, is the son of, ABRAHAM	False
+MYTHICAL BEING, was destroyed by, HERCULES	HERCULES, slaying, MYTHICAL BEING	False
+MYTHICAL BEING, was destroyed by, PERSEUS	MYTHICAL BEING, was beheaded by, PERSEUS	False
+THE ENERGY, was determined to be, UNIT	UNIT, measures, ENERGY	True
+SOFTWARE, was developed by, MICROSOFT	MICROSOFT, released, SOFTWARE	True
+THE VACCINE, was developed by, SCIENTIST	SCIENTIST, invented, A VACCINE	True
+THE NORTH POLE, was discovered by, PERSON	PERSON, reached, THE NORTH POLE	True
+THE SOUTH POLE, was discovered by, PERSON	PERSON, reached, THE SOUTH POLE	True
+BEVERAGE, was discovered in, CHINA	BEVERAGE, is traditionally from, CHINA	True
+EUROPE, was dominated by, POLITICAL SYSTEM	POLITICAL SYSTEM, is prevalent in, EUROPE	True
+THE RASH, was due to, DISEASE	DISEASE, can cause, A RASH	True
+SOLID FOOD, was eaten with, BREAD	SOLID FOOD, is served with, BREAD	False
+PERSON, was elected a member of, THE SCIENCES	PERSON, contributed to, SCIENCE	True
+SENATOR, was elected as, PRESIDENT	SENATOR, served as, PRESIDENT	False
+PERSON, was elected governor of, CALIFORNIA	PERSON, is the governor of, CALIFORNIA	False
+PERSON, was elected governor of, TEXAS	PERSON, is a politician from, TEXAS	True
+PERSON, was elected president of, TEXAS	PERSON, is a politician from, TEXAS	True
+CORN, was fed to, ANIMAL	ANIMAL, eats, CORN	True
+PERSON, was first in, WAR	PERSON, fought in, A WAR	True
+BUDDHISM, was first introduced by, PERSON	PERSON, is the founder of, BUDDHISM	False
+SPORT, was first introduced to, JAPAN	SPORT, is played in, JAPAN	True
+THIS METAL, was first used for, DEVICE	DEVICE, is made of, METAL	False
+ANIMAL, was fond of, CORN	ANIMAL, eats, CORN	True
+THE CIVIL WAR, was fought between, PERSON	PERSON, fought in, THE CIVIL WAR	True
+THE NORTH POLE, was found by, PERSON	PERSON, reached, THE NORTH POLE	True
+THE SCIENCES, was founded by, PERSON	PERSON, contributed to, SCIENCE	True
+PERSON, was generally regarded as, THE HERO	PERSON, became, A HERO	True
+PERSON, was given, AN AWARD	AWARD, may be divided between, PERSON	False
+PERSON, was given, AN AWARD	PERSON, agreed to accept, THE AWARD	False
+PERSON, was given, AN AWARD	PERSON, gave me, AN AWARD	False
+PERSON, was given, AN AWARD	PERSON, sued and obtained, AN AWARD	False
+PERSON, was given, AN AWARD	PERSON, was and won, THE AWARD	False
+PERSON, was given, AN AWARD	THIS AWARD, is presented to, PERSON	True
+FOOD, was good in, CAKE	FOOD, is included in, A CAKE	True
+PERSON, was governor of, FLORIDA	PERSON, is the governor of, FLORIDA	False
+PHILOSOPHER, was greatest in, MATHEMATICS	PHILOSOPHER, discussed, MATHEMATICS	True
+PERSON, was hailed as, A HERO	PERSON, became, A HERO	True
+CITY, was half of, EUROPE	CITY, is in, EUROPE	True
+THE BAND, was headed by, PERSON	PERSON, plays in, A BAND	True
+THIS BAND, was headed by, PERSON	PERSON, plays in, A BAND	True
+WINE, was imported from, EUROPEAN COUNTRY	EUROPEAN COUNTRY, produces, WINE	True
+PERSON, was in command in, FLORIDA	PERSON, is the governor of, FLORIDA	False
+PERSON, was indeed, A HERO	PERSON, became, A HERO	True
+AFRICA, was inhabited by, MAMMAL	MAMMAL, is native to, AFRICA	False
+PERSON, was interviewed on, TELEVISION	PERSON, appeared on, TELEVISION	True
+THE TELEPHONE, was introduced by, PERSON	PERSON, invented, THE TELEPHONE	False
+MAIZE, was introduced from, NORTH AMERICAN COUNTRY	NORTH AMERICAN COUNTRY, exports, MAIZE	True
+ANIMAL, was introduced into, AUSTRALIA	ANIMAL, lives in, AUSTRALIA	True
+ISLAM, was introduced into, ASIAN COUNTRY	ASIAN COUNTRY, believes in, ISLAM	False
+ASIAN COUNTRY, was invaded by, JAPAN	JAPAN, had captured, ASIAN COUNTRY	False
+ASIAN COUNTRY, was invaded by, JAPAN	JAPAN, has attacked, ASIAN COUNTRY	True
+ASIAN COUNTRY, was invaded by, THE MONGOLS	MONGOLS, conquer, ASIAN COUNTRY	False
+ASIAN COUNTRY, was invaded by, THE MONGOLS	MONGOLS, conquered, ASIAN COUNTRY	False
+ASIAN COUNTRY, was invaded by, THE MONGOLS	THE MONGOLS, again invaded, ASIAN COUNTRY	False
+ASIAN COUNTRY, was invaded by, THE MONGOLS	THE MONGOLS, attacked, ASIAN COUNTRY	True
+ASIAN COUNTRY, was invaded by, THE MONGOLS	THE MONGOLS, controlled most of, ASIAN COUNTRY	False
+ASIAN COUNTRY, was invaded by, THE MONGOLS	THE MONGOLS, to ravage, ASIAN COUNTRY	False
+DEVICE, was invented by, GUTENBERG	GUTENBERG, developed, DEVICE	True
+DEVICE, was invented by, THOMAS EDISON	THOMAS EDISON, made, DEVICE	True
+SPORT, was invented by, THE BRITISH	SPORT, was introduced by, THE BRITISH	True
+VEHICLE, was invented by, THE WRIGHT BROTHERS	VEHICLE, was built by, THE WRIGHT BROTHERS	True
+PERSON, was killed at the battle of, TRAFALGAR	PERSON, died at, TRAFALGAR	True
+PERSON, was known as, MARK TWAIN	MARK TWAIN, began as, PERSON	False
+PERSON, was known as, MARK TWAIN	MARK TWAIN, is the name of, PERSON	False
+PERSON, was known as, MARK TWAIN	MARK TWAIN, is the pseudonym of, PERSON	False
+BEVERAGE, was known in, CHINA	BEVERAGE, is traditionally from, CHINA	False
+ENGLISH, was known in, AFRICAN COUNTRY	AFRICAN COUNTRY, speaks, ENGLISH	False
+THE NORTH POLE, was located by, PERSON	PERSON, reached, THE NORTH POLE	True
+THE AMERICAN FLAG, was made by, PERSON	PERSON, designed, THE AMERICAN FLAG	False
+THE FURNITURE, was made by, WORKER	WORKER, makes, FURNITURE	True
+THE VACCINE, was made by, SCIENTIST	SCIENTIST, invented, A VACCINE	False
+PERSON, was made king of, BRITAIN	PERSON, ruled, BRITAIN	True
+CLOTHING, was made of, MATERIAL	MATERIAL, is used in, CLOTHING	True
+THE BAND, was made up of, PERSON	PERSON, plays in, A BAND	True
+THE LENGTH, was measured with, UNIT	UNIT, measures, LENGTH	True
+JAPAN, was occupied under, PERSON	PERSON, controlled, JAPAN	True
+QUEEN VICTORIA, was on the throne of, TERRITORY	TERRITORY, was controlled by, QUEEN VICTORIA	True
+DEITY, was one of, WAR	DEITY, is the god of, WAR	False
+GEORGE ORWELL, was one of, PERSON	PERSON, was known as, GEORGE ORWELL	False
+ASIAN COUNTRY, was overrun by, MONGOLS	ASIAN COUNTRY, was invaded by, THE MONGOLS	True
+STATE, was part of, THE CONFEDERACY	STATE, promoted, A CONFEDERACY	False
+STATE, was part of, THE CONFEDERACY	STATE, seceded and joined, THE CONFEDERACY	False
+STATE, was part of, THE CONFEDERACY	STATE, was a state in, THE CONFEDERACY	False
+STATE, was part of, THE UNION	STATE, had been added to, THE UNION	False
+STATE, was part of, THE UNION	STATE, had just entered, THE UNION	False
+STATE, was part of, THE UNION	STATE, remained loyal to, THE UNION	False
+STATE, was part of, THE UNION	STATE, should secede from, THE UNION	False
+STATE, was part of, THE UNION	STATE, stayed in, THE UNION	False
+STATE, was part of, THE UNION	STATE, stays in, THE UNION	False
+THE TELEPHONE, was patented by, PERSON	PERSON, invented, THE TELEPHONE	False
+SCIENTIST, was persecuted by, THE CHURCH	SCIENTIST, was condemned by, THE CHURCH	True
+SCIENTIST, was persecuted by, THE CHURCH	SCIENTIST, was imprisoned by, THE CHURCH	False
+PERSON, was president during, THE GREAT DEPRESSION	PERSON, led during, THE GREAT DEPRESSION	True
+POLITICAL SYSTEM, was prevalent in, GREECE	GREECE, was established as, POLITICAL SYSTEM	False
+POLITICAL SYSTEM, was prevalent in, GREECE	POLITICAL SYSTEM, arose in, GREECE	False
+CHEESE, was produced in, EUROPEAN COUNTRY	EUROPEAN COUNTRY, produces, CHEESE	True
+WINE, was produced in, EUROPEAN COUNTRY	EUROPEAN COUNTRY, produces, WINE	True
+TERRITORY, was purchased by, THE UNITED STATES	TERRITORY, was acquired by, THE UNITED STATES	True
+THAT SCIENCE, was pursued by, PERSON	PERSON, contributed to, SCIENCE	False
+MATHEMATICS, was pushed by, PHILOSOPHER	PHILOSOPHER, discussed, MATHEMATICS	True
+JERUSALEM, was recaptured by, RULER	RULER, conquered, JERUSALEM	True
+A RESISTANCE, was recorded of, UNIT	UNIT, measures, RESISTANCE	True
+THE TEMPERATURE, was recorded on, DEVICE	DEVICE, measures, TEMPERATURE	False
+CONTINENT, was ruled by, ROME	ROME, is a power in, CONTINENT	True
+CONTINENT, was ruled by, THE BRITISH	THE BRITISH, colonized, CONTINENT	False
+GREECE, was ruled by, POLITICAL SYSTEM	POLITICAL SYSTEM, was prevalent in, GREECE	True
+UNITED STATES PRESIDENT, was sent to, LONDON	UNITED STATES PRESIDENT, traveled to, LONDON	True
+UNITED STATES PRESIDENT, was sent to, PARIS	UNITED STATES PRESIDENT, traveled to, PARIS	True
+UNITED STATES PRESIDENT, was shot in, A THEATER	UNITED STATES PRESIDENT, was assassinated in, A THEATER	True
+PERSON, was soon at, WAR	PERSON, fought in, A WAR	True
+ART MOVEMENT, was started by, PICASSO	PICASSO, developed, ART MOVEMENT	True
+SENATOR, was still, PRESIDENT	SENATOR, was elected as, PRESIDENT	True
+CITY, was stopped at, SEA	CITY, is next to, THE SEA	True
+COMMUNISM, was strengthened by, PERSON	PERSON, is associated with, COMMUNISM	True
+LINCOLN, was stricken down by, PERSON	PERSON, assassinated, LINCOLN	False
+SUBJECT FIELD, was studied by, NEWTON	NEWTON, became professor of, SUBJECT FIELD	False
+SOLID FOOD, was supplemented by, BREAD	SOLID FOOD, is served with, BREAD	True
+ASIAN COUNTRY, was surrounded by, INDIA	ASIAN COUNTRY, is a neighbor of, INDIA	True
+CITY, was surrounded by, SEA	CITY, is next to, THE SEA	True
+ASIAN COUNTRY, was swallowed by, JAPAN	ASIAN COUNTRY, was invaded by, JAPAN	True
+STATE, was taken from, MEXICO	STATE, declared independent of, MEXICO	True
+STATE, was taken from, MEXICO	STATE, had been a part of, MEXICO	True
+STATE, was taken from, MEXICO	STATE, once belonged to, MEXICO	True
+EGYPT, was taken over by, PERSON	PERSON, ruled, EGYPT	True
+UNITED STATES PRESIDENT, was taken to, LONDON	UNITED STATES PRESIDENT, traveled to, LONDON	True
+CITY, was the capital in, EUROPE	CITY, is in, EUROPE	True
+CITY, was the capital of, PENNSYLVANIA	CITY, is in, PENNSYLVANIA	True
+PHILOSOPHER, was the critic of, THE CHURCH	PHILOSOPHER, questioned, THE CHURCH	True
+PERSON, was the emperor of, JAPAN	PERSON, controlled, JAPAN	True
+CITY, was the emporium of, EUROPE	CITY, is in, EUROPE	True
+PERSON, was the engineer of, CAPITALISM	PERSON, is associated with, CAPITALISM	True
+ALL EGYPT, was the estate of, PERSON	PERSON, ruled, EGYPT	True
+CITY, was the eye of, GREECE	CITY, had influence in, GREECE	True
+PERSON, was the governor of, TEXAS	PERSON, is a politician from, TEXAS	True
+CITY, was the greatest in, GREECE	CITY, had influence in, GREECE	True
+CITY, was the head of, GREECE	CITY, had influence in, GREECE	True
+CITY, was the heart of, GREECE	CITY, had influence in, GREECE	True
+LANGUAGE, was the language in, INDIA	LANGUAGE, is spoken in, INDIA	True
+LANGUAGE, was the language of, CHINA	LANGUAGE, is officially recognized in, CHINA	True
+PERSON, was the leader of, THE SOVIET UNION	PERSON, represented, THE SOVIET UNION	True
+PERSON, was the man on, THE MOON	PERSON, walked on, THE MOON	True
+PERSON, was the manager of, CAPITALISM	PERSON, is associated with, CAPITALISM	True
+PERSON, was the minister of, BRITAIN	PERSON, ruled, BRITAIN	False
+CITY, was the port in, EUROPE	CITY, is in, EUROPE	True
+PERSON, was the prophet of, CAPITALISM	PERSON, is associated with, CAPITALISM	True
+MARK TWAIN, was the pseudonym of, PERSON	PERSON, was known as, MARK TWAIN	True
+PERSON, was the queen of, EGYPT	PERSON, ruled, EGYPT	True
+PERSON, was the representative of, CAPITALISM	PERSON, is associated with, CAPITALISM	True
+PERSON, was the seed of, ABRAHAM	PERSON, is the son of, ABRAHAM	False
+MYTHICAL BEING, was the son of, ZEUS	MYTHICAL BEING, is the offspring of, ZEUS	True
+CITY, was the state of, GREECE	CITY, had influence in, GREECE	True
+PERSON, was the winner of, THE AWARD	PERSON, was given, AN AWARD	True
+CITY, was to be administered by, GREECE	CITY, had influence in, GREECE	True
+GREECE, was under, POLITICAL SYSTEM	POLITICAL SYSTEM, was prevalent in, GREECE	False
+POLITICAL SYSTEM, was used by, ROME	POLITICAL SYSTEM, was established at, ROME	False
+SUBJECT FIELD, was used by, NEWTON	SUBJECT FIELD, was studied by, NEWTON	True
+CURRENCY, was used in, ROME	CURRENCY, was issued in, ROME	False
+POLITICAL SYSTEM, was used in, EGYPT	EGYPT, became, POLITICAL SYSTEM	False
+POLITICAL SYSTEM, was used in, EGYPT	EGYPT, still remained as, POLITICAL SYSTEM	False
+POLITICAL SYSTEM, was used in, EGYPT	EGYPT, was still, POLITICAL SYSTEM	False
+JAPAN, was visited by, NATURAL PHENOMENON	NATURAL PHENOMENON, occurs in, JAPAN	True
+PHILOSOPHER, was well versed in, MATHEMATICS	PHILOSOPHER, discussed, MATHEMATICS	True
+DEITY, was worshiped in, ATHENS	DEITY, was honoured in, ATHENS	True
+DEITY, was worshiped in, ATHENS	DEITY, was the goddess of, ATHENS	False
+DEITY, was worshiped in, ATHENS	DEITY, was the patroness of, ATHENS	False
+DEITY, was worshiped in, BABYLON	BABYLON, was the city of, DEITY	False
+DEITY, was worshiped in, BABYLON	DEITY, was the deity of, BABYLON	False
+DEITY, was worshiped in, EGYPT	DEITY, became the god of, EGYPT	False
+DEITY, was worshiped in, EGYPT	DEITY, ruled in, EGYPT	False
+DEITY, was worshiped in, EGYPT	DEITY, was seated on the throne of, EGYPT	False
+ANIMAL, wavers on, WINGS	ANIMAL, has, WINGS	True
+PERSON, went and fell in, BATTLE	PERSON, fought in, A BATTLE	True
+CHURCHILL, went to see, UNITED STATES PRESIDENT	UNITED STATES PRESIDENT, met, CHURCHILL	True
+ANIMAL, were a group of, REPTILES	ANIMAL, is defined as, A REPTILE	True
+DEVICE, were also made of, WOOD	DEVICE, is made of, WOOD	False
+ANIMAL, were brought to, AMERICA	ANIMAL, lives in, AMERICA	True
+ANIMAL, were brought to, AUSTRALIA	ANIMAL, lives in, AUSTRALIA	True
+ANIMAL, were common in, AFRICA	ANIMAL, lives in, AFRICA	True
+MAMMAL, were common in, AFRICA	MAMMAL, is native to, AFRICA	False
+WORKER, were cooking, MEAT	WORKER, prepares, MEAT	True
+THE SCIENCES, were cultivated by, PERSON	PERSON, contributed to, SCIENCE	True
+THE CROPS, were destroyed by, ANIMAL	ANIMAL, eats, CROPS	False
+ANIMAL, were discovered in, AUSTRALIA	ANIMAL, lives in, AUSTRALIA	True
+PERSON, were dragged into, THE WAR	PERSON, fought in, A WAR	True
+THE CROPS, were eaten up by, ANIMAL	ANIMAL, eats, CROPS	True
+FOOD, were encrusted with, SALT	FOOD, includes, SALT	True
+DEVICE, were entirely of, WOOD	DEVICE, is made of, WOOD	True
+THE ROMANS, were exasperated against, RULER	RULER, fought, THE ROMANS	False
+ANIMAL, were firmly in, AFRICA	ANIMAL, lives in, AFRICA	True
+ANIMAL, were imported from, AFRICA	ANIMAL, lives in, AFRICA	True
+ANIMAL, were introduced into, AUSTRALIA	ANIMAL, lives in, AUSTRALIA	True
+PLANT LIFE, were made in, EUROPE	PLANT LIFE, is native to, EUROPE	False
+PROCESS, were made on, A COMPUTER	PROCESS, is carried out by, A COMPUTER	True
+MAMMAL, were moving from, AFRICA	MAMMAL, is native to, AFRICA	True
+EARTHQUAKES, were registered on, DEVICE	DEVICE, measures, EARTHQUAKES	True
+PERSON, were singing on, TELEVISION	PERSON, appeared on, TELEVISION	True
+PERSON, were the creators of, CAPITALISM	PERSON, is associated with, CAPITALISM	True
+STATE, were the members of, THIS UNION	STATE, was part of, THE UNION	True
+CITY, were the powers of, GREECE	CITY, had influence in, GREECE	True
+MAMMAL, were to be found in, AFRICA	MAMMAL, is native to, AFRICA	False
+PERSON, were to be found in, THE MONASTERIES	PERSON, lives in, A MONASTERY	False
+DEVICE, were usually made of, METAL	DEVICE, is made of, METAL	False
+MEDALS, were won by, PERSON	PERSON, was awarded, A MEDAL	True
+DEITY, wields, THE THUNDER	DEITY, controls, THUNDER	True
+MEDALS, will be awarded to, PERSON	PERSON, was awarded, A MEDAL	False
+PERSON, will get, A MEDAL	PERSON, was awarded, A MEDAL	True
+MICROORGANISM, will guard against, DISEASES	MICROORGANISM, does not cause, DISEASE	True
+ANIMAL, will have, FUR	ANIMAL, has, FUR	False
+CHEMICAL, will often remove, A STAIN	CHEMICAL, removes, STAINS	False
+PERSON, will pass for, A SAINT	PERSON, became, A SAINT	False
+NATURAL PHENOMENON, will remain in, JAPAN	NATURAL PHENOMENON, occurs in, JAPAN	True
+SYMPTOM, will require the use of, ASPIRIN	SYMPTOM, can be treated with, ASPIRIN	True
+ANIMAL, will run down, AN ANTELOPE	ANIMAL, hunts, ANTELOPES	True
+LIVING THING, will set, THE BROKEN BONES	LIVING THING, reconstructs, BROKEN BONES	False
+STATE, withdrew and joined, THE CONFEDERACY	STATE, was part of, THE CONFEDERACY	True
+ANIMAL, withdrew from, AFRICA	ANIMAL, lives in, AFRICA	True
+PERSON, won, AN OSCAR	PERSON, embraced, HER OSCAR	False
+RULER, won over, THE ROMANS	RULER, fought, THE ROMANS	True
+PERSON, works at, THE WHITE HOUSE	PERSON, had served in, THE WHITE HOUSE	True
+PERSON, works at, THE WHITE HOUSE	PERSON, retiring from, THE WHITE HOUSE	False
+PERSON, works at, THE WHITE HOUSE	PERSON, was elected to, THE WHITE HOUSE	False
+ANTIBIOTICS, would abolish, DISEASE	DISEASE, requires, ANTIBIOTICS	True
+COMMUNISM, would appeal to, PERSON	PERSON, is associated with, COMMUNISM	False
+FOOD, would be good as, CAKE	FOOD, is included in, A CAKE	True
+LANGUAGE, would be the language of, PAKISTAN	LANGUAGE, is spoken in, PAKISTAN	True
+BOTH MEDALS, would go to, PERSON	PERSON, was awarded, A MEDAL	True
+STATE, would go to, THE CONFEDERACY	STATE, was part of, THE CONFEDERACY	True
+PERSON, would lose, THE WAR	PERSON, fought in, A WAR	True
+AFRICAN COUNTRY, would operate with, FRANCE	AFRICAN COUNTRY, trades with, FRANCE	False
+PLANT LIFE, would produce, WINE	PLANT LIFE, is used to make, WINE	False
+TERRITORY, would remain within, THE BRITISH EMPIRE	TERRITORY, was controlled by, THE BRITISH EMPIRE	True
+DRUG, would stop, THE PAIN	DRUG, relieves, PAIN	True
+EUROPEAN COUNTRY, would support, RUSSIA	EUROPEAN COUNTRY, is an ally of, RUSSIA	False
+RUSSIA, would support, EUROPEAN COUNTRY	EUROPEAN COUNTRY, is an ally of, RUSSIA	False
+AUTHOR, wrote, HAMLET	AUTHOR, would have written, HAMLET	True
+PERSON, wrote a set of, SYMPHONIES	PERSON, composed, A SYMPHONY	True
+UNITED STATES PRESIDENT, wrote in, PARIS	UNITED STATES PRESIDENT, traveled to, PARIS	True
+NEWTON, wrote on, SUBJECT FIELD	SUBJECT FIELD, was studied by, NEWTON	True
+ASSYRIA, yielded to, PERSON	PERSON, ruled, ASSYRIA	True
+PLANT LIFE, yields, SUCH FLOUR	PLANT LIFE, is processed into, FLOUR	False
+THE DESERT, yields, PLANT LIFE	PLANT LIFE, can survive in, THE DESERT	True
