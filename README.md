@@ -1,6 +1,8 @@
 # relational-implication-dataset
 
-This repository contains the dataset first described in 'Probabilistic Models of Relational Implication' (Holt, Xavier. "Probabilistic Models of Relational Implication." arXiv preprint arXiv:1907.12048 (2019).).
+This repository contains the dataset first described in 'Probabilistic Models of Relational Implication' ([arxiv](https://arxiv.org/pdf/1907.12048.pdf)).
+
+> Holt, Xavier. "Probabilistic Models of Relational Implication." arXiv preprint arXiv:1907.12048 (2019).
 
 ### Format
 
