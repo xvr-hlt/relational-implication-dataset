@@ -1,6 +1,6 @@
 # relational-implication-dataset
 
-This repository contains the dataset first described in 'Probabilistic Models of Relational Implication'.
+This repository contains the dataset first described in 'Probabilistic Models of Relational Implication' (Holt, Xavier. "Probabilistic Models of Relational Implication." arXiv preprint arXiv:1907.12048 (2019).).
 
 ### Format
 
@@ -22,3 +22,4 @@ PERSON, wrote, BOOK\tPERSON, enjoyed_writing, BOOK\tFalse
 * 'implications.tsv': Implications where instantiating arguments have been genericised e.g. 'ephedrine' would become 'DRUG'. Duplicate entries resulting from this genericisation have been removed. This was the representation over which the crowd workers annotated.
 * 'directional_implications.tsv': Implications that only occur strictly in one direction, that is, `p(_, _) -> q(_, _)` but `q(_, _) -\> p(_, _)` or vice-versa. A label of `True` indicates that the implication occurs from left-to-right, a label of `False` indicates the implication occurs from right-to-left.
 * 'implications_instantiated.tsv': The fully instantiated implication rules. These have mainly been included for compatibility/comparison with the original Levy et al. dataset.
+
